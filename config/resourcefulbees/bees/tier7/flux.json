@@ -1,0 +1,31 @@
+{
+  "flower": "kubejs:nectarblock_flux",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier7/flux_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#1B1B1B"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "fluxnetworks:flux_dust"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "lava",
+    "parent2": "redstone",
+    "feedItem": "fluxnetworks:flux_dust",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

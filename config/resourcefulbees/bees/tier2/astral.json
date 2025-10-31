@@ -1,0 +1,40 @@
+{
+  "flower": "kubejs:nectarblock_astral",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier2/astral_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "isEnchanted": true,
+    "honeycombColor": "#01136B"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "BLOCK",
+        "inputID": "minecraft:iron_ore",
+        "outputs": [
+          {"outputID": "astralsorcery:rock_crystal_ore", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "astralsorcery:aquamarine",
+    "secondaryOutput": "astralsorcery:starmetal_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "astralsorcery:starmetal_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

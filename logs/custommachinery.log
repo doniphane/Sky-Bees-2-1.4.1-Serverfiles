@@ -1,0 +1,28 @@
+[07:50:26.719][CLIENT][INFO]: Reading Custom Machinery Machines...
+[07:50:26.720][CLIENT][INFO]: Parsing machine json: custommachinery:crusher in datapack: KubeJS Resource Pack [data]
+[07:50:26.743][CLIENT][INFO]: Successfully parsed machine json: custommachinery:crusher
+[07:50:26.744][CLIENT][INFO]: Parsing machine json: custommachinery:auto_starlight_infuser in datapack: KubeJS Resource Pack [data]
+[07:50:26.744][CLIENT][INFO]: Successfully parsed machine json: custommachinery:auto_starlight_infuser
+[07:50:26.744][CLIENT][INFO]: Finished creating custom machines.
+[07:50:26.745][CLIENT][INFO]: Reading Custom Machinery Upgrades...
+[07:50:26.745][CLIENT][INFO]: Finished creating custom machine upgrades.
+[07:54:48.845][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/auto_starlight_infuser/0 to clients
+[07:54:48.848][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/auto_starlight_infuser/0 to clients.
+[07:54:48.878][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/3 to clients
+[07:54:48.878][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/3 to clients.
+[07:54:48.881][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/2 to clients
+[07:54:48.882][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/2 to clients.
+[07:54:48.914][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/0 to clients
+[07:54:48.915][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/0 to clients.
+[07:54:48.945][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/1 to clients
+[07:54:48.946][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/1 to clients.
+[07:54:49.002][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/auto_starlight_infuser/0 to clients
+[07:54:49.003][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/auto_starlight_infuser/0 to clients.
+[07:54:49.023][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/3 to clients
+[07:54:49.023][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/3 to clients.
+[07:54:49.024][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/2 to clients
+[07:54:49.025][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/2 to clients.
+[07:54:49.039][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/0 to clients
+[07:54:49.039][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/0 to clients.
+[07:54:49.056][SERVER][INFO]: Sending recipe: kubejs:custom_machine/custommachinery/crusher/1 to clients
+[07:54:49.056][SERVER][INFO]: Sucessfully send recipe: kubejs:custom_machine/custommachinery/crusher/1 to clients.

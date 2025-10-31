@@ -1,0 +1,7 @@
+[07:49:50] [INFO ] Loaded script startup_scripts:custom_block.js in 0.509 s
+[07:49:50] [INFO ] Loaded script startup_scripts:nectarblock.js in 0.014 s
+[07:49:50] [INFO ] Loaded script startup_scripts:jei.js in 0.032 s
+[07:49:50] [INFO ] Loaded script startup_scripts:custom_fluid.js in 0.001 s
+[07:49:50] [INFO ] Loaded script startup_scripts:burn_time.js in 0.001 s
+[07:49:50] [INFO ] Loaded script startup_scripts:custom_item.js in 0.002 s
+[07:49:50] [INFO ] Loaded 6/6 KubeJS startup scripts in 1.73 s

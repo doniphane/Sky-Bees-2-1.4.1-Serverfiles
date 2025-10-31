@@ -1,0 +1,11 @@
+{
+  "name": "Sulfur",
+  "colors": [
+    "8A7533",
+    "A0AE5E"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/sulfur"
+  },
+  "inUltimateSingularity": true
+}

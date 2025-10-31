@@ -1,0 +1,11 @@
+{
+  "name": "Lapis Blauli",
+  "colors": [
+    "5a82e2",
+    "345ec3"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/lapis"
+  },
+  "inUltimateSingularity": true
+}

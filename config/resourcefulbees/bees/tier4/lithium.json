@@ -1,0 +1,31 @@
+{
+  "flower": "kubejs:nectarblock_lithium",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier4/lithium_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#A49792"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "mekanism:dust_lithium"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "osmium",
+    "parent2": "salt",
+    "feedItem": "mekanism:dust_lithium",
+    "feedAmount": 2
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "flower": "kubejs:nectarblock_radioactive",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier3/radioactive_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#00D65F",
+    "isGlowing": true,
+    "glowColor": "#00D65F",
+    "glowingPulse": 2,
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "mekanism:ingot_uranium",
+    "secondaryOutput": "powah:uraninite"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "mekanism:ingot_uranium",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

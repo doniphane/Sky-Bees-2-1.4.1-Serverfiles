@@ -1,0 +1,39 @@
+{
+  "flower": "kubejs:nectarblock_skeleton",
+  "maxTimeInHive": 600,
+  "hasHoneycomb": true,
+  "traits":["can_swim"],
+  "baseLayerTexture": "skeleton/skeleton_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#F6F2E6"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:wither_skeleton_skull",
+        "outputs": [
+          {"outputID": "resourcefulbees:wither_skeleton_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:bone"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false,
+    "lightLevel": "NIGHT"
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "minecraft:bone",
+    "feedAmount": 8
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

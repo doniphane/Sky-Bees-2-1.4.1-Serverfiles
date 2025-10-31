@@ -1,0 +1,31 @@
+{
+  "flower": "kubejs:nectarblock_niter",
+  "baseLayerTexture":"tier1/niter_bee",
+  "hasHoneycomb": true,
+  "traits":["can_swim"],
+  "maxTimeInHive": 700,
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#D0C6C6"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:niter"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "gravel",
+    "parent2": "sand",
+    "feedItem": "thermal:niter",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

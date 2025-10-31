@@ -1,0 +1,49 @@
+{
+  "flower": "kubejs:nectarblock_draconium",
+  "maxTimeInHive": 2400,
+  "hasHoneycomb": true,
+  "baseLayerTexture" : "dragon/dragon_bee",
+  "traits": [ "ender", "nether", "wither", "can_swim" ],
+  "ColorData": {
+    "isBeeColored": true,
+    "isGlowing": true,
+    "modelType": "DRAGON",
+    "primaryLayerTexture": "dragon/dragon_bee_primary",
+    "secondaryLayerTexture": "dragon/dragon_bee_secondary",
+    "emissiveLayerTexture": "dragon/dragon_bee_emissive",
+    "primaryColor": "#6D3997",
+    "secondaryColor": "#4F2670",
+    "glowColor": "#72419A",
+    "honeycombColor": "#6D3997"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "draconicevolution:awakened_draconium_block",
+        "outputs": [
+          {"outputID": "resourcefulbees:awakened_draconium_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "draconicevolution:draconium_ingot",
+    "mainOutputWeight": 0.40
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "enderium",
+    "parent2": "terrasteel",
+    "feedItem": "draconicevolution:draconium_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

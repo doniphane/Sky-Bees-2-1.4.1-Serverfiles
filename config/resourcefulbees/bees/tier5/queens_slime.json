@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_queens_slime",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier5/queensslime_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#1D5041",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "tconstruct:queens_slime_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "gold",
+    "parent2": "cobalt",
+    "feedItem": "tconstruct:queens_slime_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

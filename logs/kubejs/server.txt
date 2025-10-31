@@ -1,0 +1,471 @@
+[07:50:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[07:50:20] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:loottables/custom.js in 0.002 s
+[07:50:20] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[07:50:20] [INFO ] Loaded script server_scripts:test.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:tinkers/casting_table_basin.js in 0.007 s
+[07:50:20] [INFO ] Loaded script server_scripts:tinkers/melting.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:tinkers/a_remove_tinkers.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:tinkers/alloying.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:tags/tag.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:bloodmagic/altar.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:astralsorcery/marble.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:astralsorcery/auto_starlight_infuser_crafting.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:minecraft/blast_furnace.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:minecraft/grass.js in 0.006 s
+[07:50:20] [INFO ] Loaded script server_scripts:custom_machines/auto_starlight_infuser.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:custom_machines/crusher.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:powah/elite_centrifuge_casing.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:powah/centrifuge_casing.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:powah/nitro_crystal.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:powah/a_remove_nitro_crystal.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:powah/certusquartz.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/metallurgic_infusing.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/combining.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/a_remove_mekanism.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/redstone_flux_coil.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/crushing.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/enriching.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/smelting.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/steel_casing.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/injecting.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:mekanism/reaction.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:rftoolsbase/machine_frame.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier8.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/high_temp.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier5.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/dna.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier1.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/rgb.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/no_temp.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/low_temp.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier6.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier9.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier7.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/sub_zero_temp.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier3.js in 0.002 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier2.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:jarmod/nectarblock_tier4.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:extendedcrafting/ec.js in 0.003 s
+[07:50:20] [INFO ] Loaded script server_scripts:industrialforegoing/laser.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:industrialforegoing/stoneworkfactory.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/gravel_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/snowball_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/bee.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/matter_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/shulker.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/enderman.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/fishi_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/dirt_bee.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/blitz.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/lava_bee.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/rgbee_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/diorite_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/cobblestone_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/basalz.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/wood_bee.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/guardian.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/granite_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/sand_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/blizz.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/andesite_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/blaze.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:dna/water_bee.js in 0.001 s
+[07:50:20] [INFO ] Loaded script server_scripts:appliedenergistics2/empty_storage_cell.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:appliedenergistics2/storage_components_cell_1k_part.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:appliedenergistics2/fluid_storage_components_cell_1k_part.js in 0.0 s
+[07:50:20] [INFO ] Loaded script server_scripts:appliedenergistics2/add_recipe.js in 0.0 s
+[07:50:20] [INFO ] Loaded 75/75 KubeJS server scripts in 0.13 s
+[07:50:20] [INFO ] Scripts loaded
+[07:50:20] [INFO ] Scanning recipes...
+[07:50:22] [INFO ] [blocks] Found 528 tags, added 0 objects, removed 3 objects
+[07:50:22] [INFO ] [blocks] Found 528 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [items] Found 1101 tags, added 0 objects, removed 3 objects
+[07:50:22] [INFO ] [items] Found 1101 tags, added 2 objects, removed 0 objects
+[07:50:22] [INFO ] [fluids] Found 163 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [fluids] Found 163 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [entity_types] Found 25 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [entity_types] Found 25 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [catalyst_types] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [slurries] Found 10 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [slurries] Found 10 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[07:50:22] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[07:50:22] [WARN ] Failed to parse recipe 'thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
+[07:50:22] [WARN ] Failed to parse recipe thermal:compat/appliedenergistics2/ae2_ender_pearl_dust_convert[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'thermal:ender_pearl_dust'
+[07:50:22] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_orange_oak_sapling[thermal:insolator]': {"item":"minecraft:orange_oak_sapling"} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'bloodmagic:meteor/create[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
+[07:50:23] [WARN ] Failed to parse recipe bloodmagic:meteor/create[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
+[07:50:23] [WARN ] Failed to parse recipe 'bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
+[07:50:23] [WARN ] Failed to parse recipe bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
+[07:50:23] [WARN ] Failed to parse recipe 'excompressum:chicken_stick/dust[excompressum:chicken_stick]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: excompressum:chicken_stick
+[07:50:23] [WARN ] Failed to parse recipe excompressum:chicken_stick/dust[excompressum:chicken_stick]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'excompressum:chicken_stick'
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:fuels/compression/compression_creosote[thermal:compression_fuel]': {"fluid_tag":"forge:creosote","amount":1000} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_yellow_birch_sapling[thermal:insolator]': {"item":"minecraft:yellow_birch_sapling"} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_orange_birch_sapling[thermal:insolator]': {"item":"minecraft:orange_birch_sapling"} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_yellow_oak_sapling[thermal:insolator]': {"item":"minecraft:yellow_oak_sapling"} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_red_oak_sapling[thermal:insolator]': {"item":"minecraft:red_oak_sapling"} is not a valid ingredient!
+[07:50:23] [WARN ] Failed to parse recipe 'excompressum:chicken_stick/stone[excompressum:chicken_stick]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: excompressum:chicken_stick
+[07:50:23] [WARN ] Failed to parse recipe excompressum:chicken_stick/stone[excompressum:chicken_stick]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'excompressum:chicken_stick'
+[07:50:23] [WARN ] Failed to parse recipe 'bloodmagic:meteor/myst_ag[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperity_shard'
+[07:50:23] [WARN ] Failed to parse recipe bloodmagic:meteor/myst_ag[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'mysticalagriculture:prosperity_shard'
+[07:50:23] [WARN ] Failed to parse recipe 'thermal:compat/genericeco/insolator_minecraft_flowering_oak_sapling[thermal:insolator]': {"item":"minecraft:flowering_oak_sapling"} is not a valid ingredient!
+[07:50:23] [INFO ] Found 11282 recipes and 0 failed recipes in 714.5 ms
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:7: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:9: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:11: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:16: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:17: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:19: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:21: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:23: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:25: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:27: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:29: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:32: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:33: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:36: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:37: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:38: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:39: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:40: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:41: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:44: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:45: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:46: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:47: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:50: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:51: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:52: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:53: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:54: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:55: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:58: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:59: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:60: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:61: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:62: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:65: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:66: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:67: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:68: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:69: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:72: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:73: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:74: + tconstruct:casting_basin: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:75: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/casting_table_basin.js:76: + tconstruct:casting_table: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:6: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:8: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:9: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:11: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:12: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:14: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:15: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:16: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:18: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/melting.js:20: + tconstruct:melting: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/alloying.js:5: + tconstruct:alloy: [] -> []
+[07:50:23] [INFO ] server_scripts:tinkers/alloying.js:6: + tconstruct:alloy: [] -> []
+[07:50:23] [INFO ] server_scripts:bloodmagic/altar.js:2: + astralsorcery:altar: [] -> []
+[07:50:23] [INFO ] server_scripts:astralsorcery/marble.js:2: + astralsorcery:block_transmutation: [] -> []
+[07:50:23] [INFO ] server_scripts:astralsorcery/marble.js:25: + astralsorcery:block_transmutation: [] -> []
+[07:50:23] [INFO ] server_scripts:astralsorcery/marble.js:48: + astralsorcery:block_transmutation: [] -> []
+[07:50:23] [INFO ] server_scripts:astralsorcery/auto_starlight_infuser_crafting.js:2: + astralsorcery:altar: [] -> []
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:5: - mekanism:processing/copper/ingot/from_ore_smelting[minecraft:smelting]: ['#forge:ores/copper'] -> ['mekanism:ingot_copper']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:5: - mekanism:processing/copper/ingot/from_dust_smelting[minecraft:smelting]: ['#forge:dusts/copper'] -> ['mekanism:ingot_copper']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:6: - mekanism:processing/copper/ingot/from_dust_blasting[minecraft:blasting]: ['#forge:dusts/copper'] -> ['mekanism:ingot_copper']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:6: - mekanism:processing/copper/ingot/from_ore_blasting[minecraft:blasting]: ['#forge:ores/copper'] -> ['mekanism:ingot_copper']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:8: - mekanism:processing/tin/ingot/from_ore_smelting[minecraft:smelting]: ['#forge:ores/tin'] -> ['mekanism:ingot_tin']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:8: - mekanism:processing/tin/ingot/from_dust_smelting[minecraft:smelting]: ['#forge:dusts/tin'] -> ['mekanism:ingot_tin']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:9: - mekanism:processing/tin/ingot/from_ore_blasting[minecraft:blasting]: ['#forge:ores/tin'] -> ['mekanism:ingot_tin']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:9: - mekanism:processing/tin/ingot/from_dust_blasting[minecraft:blasting]: ['#forge:dusts/tin'] -> ['mekanism:ingot_tin']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:11: - mekanism:processing/lead/ingot/from_ore_smelting[minecraft:smelting]: ['#forge:ores/lead'] -> ['mekanism:ingot_lead']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:11: - mekanism:processing/lead/ingot/from_dust_smelting[minecraft:smelting]: ['#forge:dusts/lead'] -> ['mekanism:ingot_lead']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:12: - mekanism:processing/lead/ingot/from_dust_blasting[minecraft:blasting]: ['#forge:dusts/lead'] -> ['mekanism:ingot_lead']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:12: - mekanism:processing/lead/ingot/from_ore_blasting[minecraft:blasting]: ['#forge:ores/lead'] -> ['mekanism:ingot_lead']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:14: - mekanism:processing/bronze/ingot/from_dust_smelting[minecraft:smelting]: ['#forge:dusts/bronze'] -> ['mekanism:ingot_bronze']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:15: - mekanism:processing/bronze/ingot/from_dust_blasting[minecraft:blasting]: ['#forge:dusts/bronze'] -> ['mekanism:ingot_bronze']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:16: - mekanismtools:bronze/nugget_from_smelting[minecraft:smelting]: [['mekanismtools:bronze_helmet', 'mekanismtools:bronze_chestplate', 'mekanismtools:bronze_leggings', 'mekanismtools:bronze_boots', 'mekanismtools:bronze_sword', 'mekanismtools:bronze_pickaxe', 'mekanismtools:bronze_axe', 'mekanismtools:bronze_shovel', 'mekanismtools:bronze_hoe', 'mekanismtools:bronze_paxel']] -> ['mekanism:nugget_bronze']
+[07:50:23] [INFO ] server_scripts:minecraft/blast_furnace.js:17: - mekanismtools:bronze/nugget_from_blasting[minecraft:blasting]: [['mekanismtools:bronze_helmet', 'mekanismtools:bronze_chestplate', 'mekanismtools:bronze_leggings', 'mekanismtools:bronze_boots', 'mekanismtools:bronze_sword', 'mekanismtools:bronze_pickaxe', 'mekanismtools:bronze_axe', 'mekanismtools:bronze_shovel', 'mekanismtools:bronze_hoe', 'mekanismtools:bronze_paxel']] -> ['mekanism:nugget_bronze']
+[07:50:23] [INFO ] server_scripts:custom_machines/auto_starlight_infuser.js:20: + custommachinery:custom_machine: CustomMachineRecipe{machine=custommachinery:auto_starlight_infuser, time=120, requirements=[], priority=0, jeiPriority=0}
+[07:50:23] [INFO ] server_scripts:custom_machines/crusher.js:13: + custommachinery:custom_machine: CustomMachineRecipe{machine=custommachinery:crusher, time=60, requirements=[], priority=0, jeiPriority=0}
+[07:50:23] [INFO ] server_scripts:custom_machines/crusher.js:13: + custommachinery:custom_machine: CustomMachineRecipe{machine=custommachinery:crusher, time=60, requirements=[], priority=0, jeiPriority=0}
+[07:50:23] [INFO ] server_scripts:custom_machines/crusher.js:13: + custommachinery:custom_machine: CustomMachineRecipe{machine=custommachinery:crusher, time=60, requirements=[], priority=0, jeiPriority=0}
+[07:50:23] [INFO ] server_scripts:custom_machines/crusher.js:13: + custommachinery:custom_machine: CustomMachineRecipe{machine=custommachinery:crusher, time=60, requirements=[], priority=0, jeiPriority=0}
+[07:50:23] [INFO ] server_scripts:powah/elite_centrifuge_casing.js:2: + powah:energizing: [] -> []
+[07:50:23] [INFO ] server_scripts:powah/centrifuge_casing.js:2: + powah:energizing: [] -> []
+[07:50:23] [INFO ] server_scripts:powah/nitro_crystal.js:2: + powah:energizing: [] -> []
+[07:50:23] [INFO ] server_scripts:powah/a_remove_nitro_crystal.js:2: - powah:energizing/nitro_crystal[powah:energizing]: ['#forge:nether_stars', '#forge:storage_blocks/redstone', '#forge:storage_blocks/redstone', 'powah:blazing_crystal_block'] -> ['16x powah:crystal_nitro']
+[07:50:23] [INFO ] server_scripts:powah/certusquartz.js:2: + powah:energizing: [] -> []
+[07:50:23] [INFO ] server_scripts:mekanism/metallurgic_infusing.js:6: + mekanism:metallurgic_infusing: [3x 'thermal:copper_dust'] -> ['4x thermal:bronze_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/metallurgic_infusing.js:7: + mekanism:metallurgic_infusing: [3x 'thermal:copper_ingot'] -> ['4x thermal:bronze_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:7: + mekanism:combining: [8x 'thermal:copper_dust', '#forge:cobblestone'] -> ['thermal:copper_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:9: + mekanism:combining: [8x 'thermal:tin_dust', '#forge:cobblestone'] -> ['thermal:tin_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:11: + mekanism:combining: [8x 'thermal:lead_dust', '#forge:cobblestone'] -> ['thermal:lead_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:13: + mekanism:combining: [8x 'thermal:gold_dust', '#forge:netherrack'] -> ['minecraft:nether_gold_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:15: + mekanism:combining: [8x 'rftoolsbase:dimensionalshard', '#forge:netherrack'] -> ['rftoolsbase:dimensionalshard_nether']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:17: + mekanism:combining: [8x 'powah:uraninite', '#forge:cobblestone'] -> ['powah:uraninite_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:19: + mekanism:combining: [8x 'minecraft:wheat_seeds', '#forge:cobblestone'] -> ['kubejs:seed_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/combining.js:21: + mekanism:combining: [5x 'appliedenergistics2:charged_certus_quartz_crystal', '#forge:cobblestone'] -> ['appliedenergistics2:charged_quartz_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:5: - mekanism:processing/iron/dust/from_dirty_dust[mekanism:enriching]: ['#mekanism:dirty_dusts/iron'] -> ['mekanism:dust_iron']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:5: - mekanism:processing/iron/dust/from_ore[mekanism:enriching]: ['#forge:ores/iron'] -> ['2x mekanism:dust_iron']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:6: - mekanism:processing/iron/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/iron'] -> ['mekanism:dust_iron']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:8: - mekanism:processing/gold/dust/from_dirty_dust[mekanism:enriching]: ['#mekanism:dirty_dusts/gold'] -> ['mekanism:dust_gold']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:8: - mekanism:processing/gold/dust/from_ore[mekanism:enriching]: ['#forge:ores/gold'] -> ['2x mekanism:dust_gold']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:9: - mekanism:processing/gold/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/gold'] -> ['mekanism:dust_gold']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:10: - mekanism:processing/gold/ore/nether_from_dust[mekanism:combining]: [8x '#forge:dusts/gold', '#forge:netherrack'] -> ['minecraft:nether_gold_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:12: - mekanism:processing/copper/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/copper'] -> ['mekanism:dust_copper']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:13: - mekanism:processing/copper/dust/from_ore[mekanism:enriching]: ['#forge:ores/copper'] -> ['2x mekanism:dust_copper']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:13: - mekanism:processing/copper/dust/from_dirty_dust[mekanism:enriching]: ['#mekanism:dirty_dusts/copper'] -> ['mekanism:dust_copper']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:15: - mekanism:processing/copper/ore/from_dust[mekanism:combining]: [8x '#forge:dusts/copper', '#forge:cobblestone'] -> ['mekanism:copper_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:17: - mekanism:processing/tin/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/tin'] -> ['mekanism:dust_tin']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:18: - mekanism:processing/tin/dust/from_ore[mekanism:enriching]: ['#forge:ores/tin'] -> ['2x mekanism:dust_tin']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:18: - mekanism:processing/tin/dust/from_dirty_dust[mekanism:enriching]: ['#mekanism:dirty_dusts/tin'] -> ['mekanism:dust_tin']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:20: - mekanism:processing/tin/ore/from_dust[mekanism:combining]: [8x '#forge:dusts/tin', '#forge:cobblestone'] -> ['mekanism:tin_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:22: - mekanism:processing/lead/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/lead'] -> ['mekanism:dust_lead']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:23: - mekanism:processing/lead/dust/from_ore[mekanism:enriching]: ['#forge:ores/lead'] -> ['2x mekanism:dust_lead']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:23: - mekanism:processing/lead/dust/from_dirty_dust[mekanism:enriching]: ['#mekanism:dirty_dusts/lead'] -> ['mekanism:dust_lead']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:25: - mekanism:processing/lead/ore/from_dust[mekanism:combining]: [8x '#forge:dusts/lead', '#forge:cobblestone'] -> ['mekanism:lead_ore']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:27: - mekanism:processing/bronze/dust/from_ingot[mekanism:crushing]: ['#forge:ingots/bronze'] -> ['mekanism:dust_bronze']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:30: - mekanism:processing/bronze/ingot/from_infusing[mekanism:metallurgic_infusing]: [3x '#forge:ingots/copper'] -> ['4x mekanism:ingot_bronze']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:31: - mekanism:processing/bronze/dust/from_infusing[mekanism:metallurgic_infusing]: [3x '#forge:dusts/copper'] -> ['4x mekanism:dust_bronze']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:33: - mekanism:processing/diamond/to_dust[mekanism:crushing]: ['#forge:gems/diamond'] -> ['mekanism:dust_diamond']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:35: - mekanism:compat/appliedenergistics2/ender_pearl_to_dust[mekanism:crushing]: ['#forge:ender_pearls'] -> ['appliedenergistics2:ender_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:37: - mekanism:processing/emerald/to_dust[mekanism:crushing]: ['#forge:gems/emerald'] -> ['mekanism:dust_emerald']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:39: - mekanism:processing/quartz/to_dust[mekanism:crushing]: ['#forge:gems/quartz'] -> ['mekanism:dust_quartz']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:41: - mekanism:processing/lapis_lazuli/to_dust[mekanism:crushing]: ['#forge:gems/lapis'] -> ['mekanism:dust_lapis_lazuli']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:43: - mekanism:reaction/coal_gasification/blocks_coals[mekanism:reaction]: [['#forge:storage_blocks/coal', '#forge:storage_blocks/charcoal']] -> ['9x mekanism:dust_sulfur']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:43: - mekanism:reaction/coal_gasification/dusts_coals[mekanism:reaction]: [['#forge:dusts/coal', '#forge:dusts/charcoal']] -> ['mekanism:dust_sulfur']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:43: - mekanism:reaction/coal_gasification/coals[mekanism:reaction]: ['#minecraft:coals'] -> ['mekanism:dust_sulfur']
+[07:50:23] [INFO ] server_scripts:mekanism/a_remove_mekanism.js:44: - mekanism:injecting/gunpowder_to_sulfur[mekanism:injecting]: ['#forge:gunpowder'] -> ['mekanism:dust_sulfur']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:6: + mekanism:crushing: ['minecraft:iron_ingot'] -> ['thermal:iron_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:8: + mekanism:crushing: ['minecraft:gold_ingot'] -> ['thermal:gold_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:10: + mekanism:crushing: ['thermal:copper_ingot'] -> ['thermal:copper_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:12: + mekanism:crushing: ['thermal:tin_ingot'] -> ['thermal:tin_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:14: + mekanism:crushing: ['thermal:lead_ingot'] -> ['thermal:lead_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:16: + mekanism:crushing: ['thermal:bronze_ingot'] -> ['thermal:bronze_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:18: + mekanism:crushing: ['minecraft:diamond'] -> ['thermal:diamond_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:20: + mekanism:crushing: ['minecraft:ender_pearl'] -> ['thermal:ender_pearl_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:22: + mekanism:crushing: ['minecraft:emerald'] -> ['thermal:emerald_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:24: + mekanism:crushing: ['minecraft:quartz'] -> ['thermal:quartz_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/crushing.js:26: + mekanism:crushing: ['minecraft:lapis_lazuli'] -> ['thermal:lapis_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:7: + mekanism:enriching: ['minecraft:iron_ore'] -> ['2x thermal:iron_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:9: + mekanism:enriching: ['minecraft:gold_ore'] -> ['2x thermal:gold_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:11: + mekanism:enriching: ['thermal:copper_ore'] -> ['2x thermal:copper_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:13: + mekanism:enriching: ['thermal:tin_ore'] -> ['2x thermal:tin_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:15: + mekanism:enriching: ['thermal:lead_ore'] -> ['2x thermal:lead_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:18: + mekanism:enriching: ['mekanism:dirty_dust_copper'] -> ['thermal:copper_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:20: + mekanism:enriching: ['mekanism:dirty_dust_tin'] -> ['thermal:tin_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/enriching.js:22: + mekanism:enriching: ['mekanism:dirty_dust_lead'] -> ['thermal:lead_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:6: + mekanism:smelting: ['thermal:copper_dust'] -> ['thermal:copper_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:7: + mekanism:smelting: ['thermal:copper_ore'] -> ['thermal:copper_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:9: + mekanism:smelting: ['thermal:tin_dust'] -> ['thermal:tin_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:10: + mekanism:smelting: ['thermal:tin_ore'] -> ['thermal:tin_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:12: + mekanism:smelting: ['thermal:lead_dust'] -> ['thermal:lead_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:13: + mekanism:smelting: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
+[07:50:23] [INFO ] server_scripts:mekanism/smelting.js:15: + mekanism:smelting: ['tconstruct:grout'] -> ['tconstruct:seared_brick']
+[07:50:23] [INFO ] server_scripts:mekanism/steel_casing.js:2: + bloodmagic:altar: ['thermal:machine_frame'] -> ['mekanism:steel_casing']
+[07:50:23] [INFO ] server_scripts:mekanism/injecting.js:7: + mekanism:injecting: ['minecraft:gunpowder'] -> ['thermal:sulfur_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/reaction.js:4: + mekanism:reaction: [['#forge:dusts/coal', '#forge:dusts/charcoal']] -> ['thermal:sulfur_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/reaction.js:37: + mekanism:reaction: [['#forge:storage_blocks/coal', '#forge:storage_blocks/charcoal']] -> ['9x thermal:sulfur_dust']
+[07:50:23] [INFO ] server_scripts:mekanism/reaction.js:71: + mekanism:reaction: ['#minecraft:coals'] -> ['thermal:sulfur_dust']
+[07:50:23] [INFO ] server_scripts:rftoolsbase/machine_frame.js:2: + mekanism:metallurgic_infusing: ['mekanism:steel_casing'] -> ['rftoolsbase:machine_frame']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier8.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:blaze_honeycomb_block', 2x 'resourcefulbees:coal_honeycomb_block'] -> ['kubejs:nectarblock_diamond']
+[07:50:23] [INFO ] server_scripts:jarmod/high_temp.js:9: + ftbjarmod:jar: ['thermal:quartz_dust'] -> ['minecraft:quartz']
+[07:50:23] [INFO ] server_scripts:jarmod/high_temp.js:12: + ftbjarmod:jar: [4x 'minecraft:cobblestone'] -> [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')]
+[07:50:23] [INFO ] server_scripts:jarmod/high_temp.js:15: + ftbjarmod:jar: [4x '#forge:stone'] -> [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')]
+[07:50:23] [INFO ] server_scripts:jarmod/high_temp.js:18: + ftbjarmod:jar: [2x 'compressium:dirt_1'] -> [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')]
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:gold_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_cinnabar']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:gold_honeycomb_block', 2x 'resourcefulbees:silver_honeycomb_block'] -> ['kubejs:nectarblock_electrum']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:23: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:certus_honeycomb_block', 2x 'appliedenergistics2:fluix_block'] -> ['kubejs:nectarblock_fluix']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:30: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:cobalt_honeycomb_block', 2x 'resourcefulbees:obsidian_honeycomb_block'] -> ['kubejs:nectarblock_hepatizon']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:37: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:cobalt_honeycomb_block', 2x 'resourcefulbees:ancient_honeycomb_block'] -> ['kubejs:nectarblock_manyullyn']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:44: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:gold_honeycomb_block', 2x 'resourcefulbees:nether_honeycomb_block'] -> ['kubejs:nectarblock_pigman']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:51: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'tconstruct:queens_slime_block', 2x 'resourcefulbees:cobalt_honeycomb_block'] -> ['kubejs:nectarblock_queens_slime']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:58: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:copper_honeycomb_block', 2x 'resourcefulbees:gold_honeycomb_block'] -> ['kubejs:nectarblock_rose_gold']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier5.js:65: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 18x 'appliedenergistics2:silicon', 2x 'resourcefulbees:certus_honeycomb_block'] -> ['kubejs:nectarblock_silicon']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:9: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:yellow_dye'] -> ['kubejs:bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:16: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:andesite'] -> ['kubejs:andesite_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:23: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:cobblestone'] -> ['kubejs:cobblestone_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:30: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:diorite'] -> ['kubejs:diorite_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:37: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:dirt'] -> ['kubejs:dirt_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:44: + ftbjarmod:jar: ['kubejs:empty_dna', '#minecraft:fishes'] -> ['kubejs:fishi_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:51: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:granite'] -> ['kubejs:granite_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:58: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:gravel'] -> ['kubejs:gravel_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:65: + ftbjarmod:jar: ['kubejs:empty_dna', Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')] -> ['kubejs:lava_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:72: + ftbjarmod:jar: ['kubejs:empty_dna', 'kubejs:rgb_dye'] -> ['kubejs:rgbee_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:79: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:sand'] -> ['kubejs:sand_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:86: + ftbjarmod:jar: ['kubejs:empty_dna', 'minecraft:snowball'] -> ['kubejs:snowball_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:93: + ftbjarmod:jar: ['kubejs:empty_dna', Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}')] -> ['kubejs:water_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:100: + ftbjarmod:jar: ['kubejs:empty_dna', '#minecraft:logs'] -> ['kubejs:wood_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:107: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'minecraft:blaze_powder', 'minecraft:nether_wart'] -> ['kubejs:blaze_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:114: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'minecraft:black_dye', 'minecraft:nether_wart'] -> ['kubejs:enderman_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:121: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'minecraft:purple_dye', 'minecraft:end_stone'] -> ['kubejs:shulker_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:128: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'minecraft:prismarine_crystals', '#minecraft:fishes'] -> ['kubejs:guardian_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:135: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'mekanism:dust_obsidian', 'minecraft:nether_wart'] -> ['kubejs:basalz_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:142: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'thermal:niter_dust', 'minecraft:nether_wart'] -> ['kubejs:blitz_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:149: + ftbjarmod:jar: ['kubejs:empty_dna', 4x 'minecraft:snowball', 'minecraft:nether_wart'] -> ['kubejs:blizz_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/dna.js:156: + ftbjarmod:jar: ['kubejs:empty_dna', 'appliedenergistics2:singularity'] -> ['kubejs:matter_bee_dna']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:11: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'resourcefulbees:sand_honeycomb_block'] -> ['kubejs:nectarblock_clay']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:18: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:lava_honeycomb_block', 2x 'resourcefulbees:wood_honeycomb_block'] -> ['kubejs:nectarblock_coal']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:25: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:sand_honeycomb_block', 2x 'resourcefulbees:granite_honeycomb_block'] -> ['kubejs:nectarblock_fluorite']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:32: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'resourcefulbees:snowball_honeycomb_block'] -> ['kubejs:nectarblock_ice']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:39: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:wood_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_iron']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:46: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:andesite_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_lead']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:53: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'astralsorcery:marble_raw', 2x 'resourcefulbees:diorite_honeycomb_block'] -> ['kubejs:nectarblock_marble']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:60: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:sand_honeycomb_block', 2x 'resourcefulbees:gravel_honeycomb_block'] -> ['kubejs:nectarblock_niter']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:67: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'minecraft:obsidian', 2x 'resourcefulbees:lava_honeycomb_block'] -> ['kubejs:nectarblock_obsidian']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:74: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:fishi_honeycomb_block', 2x 'minecraft:prismarine'] -> ['kubejs:nectarblock_prismarine']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:81: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'resourcefulbees:wood_honeycomb_block'] -> ['kubejs:nectarblock_rubber']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:88: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'resourcefulbees:sand_honeycomb_block'] -> ['kubejs:nectarblock_salt']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:95: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'resourcefulbees:fishi_honeycomb_block'] -> ['kubejs:nectarblock_sea']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:102: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:water_honeycomb_block', 2x 'minecraft:slime_block'] -> ['kubejs:nectarblock_slime']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier1.js:109: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:diorite_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_tin']
+[07:50:23] [INFO ] server_scripts:jarmod/rgb.js:7: + ftbjarmod:jar: ['minecraft:red_dye', 'minecraft:green_dye', 'minecraft:blue_dye'] -> ['kubejs:rgb_dye']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:7: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}'), '#forge:seeds'] -> [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"kubejs:organic_water",Amount:1000}}')]
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:10: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"kubejs:organic_water",Amount:1000}}'), '#minecraft:sand'] -> ['minecraft:soul_sand']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:13: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"kubejs:organic_water",Amount:1000}}'), 'minecraft:coarse_dirt'] -> ['minecraft:soul_soil']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"kubejs:organic_water",Amount:1000}}'), '#forge:mushrooms'] -> ['minecraft:slime_block']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:19: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"kubejs:organic_water",Amount:1000}}'), 'minecraft:cobblestone'] -> ['minecraft:prismarine']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:22: + ftbjarmod:jar: [8x '#minecraft:leaves'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:25: + ftbjarmod:jar: [10x 'minecraft:apple'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:28: + ftbjarmod:jar: [10x '#forge:mushrooms'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:31: + ftbjarmod:jar: [5x '#forge:meat_uncooked'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:34: + ftbjarmod:jar: [5x '#forge:meat_cooked'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:37: + ftbjarmod:jar: [12x '#forge:seeds'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:40: + ftbjarmod:jar: [10x '#forge:crops'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:43: + ftbjarmod:jar: [10x '#minecraft:flowers'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:46: + ftbjarmod:jar: [8x '#minecraft:saplings'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:49: + ftbjarmod:jar: [8x '#forge:sawdust'] -> ['minecraft:dirt']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:52: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}'), 'minecraft:sand'] -> ['minecraft:clay']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:55: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}'), 'minecraft:glowstone_dust'] -> ['minecraft:end_stone']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:58: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}'), 'minecraft:redstone'] -> ['minecraft:netherrack']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:61: + ftbjarmod:jar: [16x 'minecraft:white_wool'] -> ['minecraft:bone_block']
+[07:50:23] [INFO ] server_scripts:jarmod/no_temp.js:64: + ftbjarmod:jar: ['minecraft:dirt', '#forge:seeds'] -> ['minecraft:grass_block']
+[07:50:23] [INFO ] server_scripts:jarmod/low_temp.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}'), Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')] -> ['minecraft:cobblestone']
+[07:50:23] [INFO ] server_scripts:jarmod/low_temp.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"astralsorcery:liquid_starlight",Amount:1000}}'), Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:lava",Amount:1000}}')] -> ['minecraft:sand']
+[07:50:23] [INFO ] server_scripts:jarmod/low_temp.js:19: + ftbjarmod:jar: [10x '#minecraft:leaves'] -> [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}')]
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'resourcefulbees:obsidian_honeycomb_block'] -> ['kubejs:nectarblock_basalz']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'resourcefulbees:niter_honeycomb_block'] -> ['kubejs:nectarblock_blitz']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:23: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'resourcefulbees:snowball_honeycomb_block'] -> ['kubejs:nectarblock_blizz']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:30: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'minecraft:end_stone'] -> ['kubejs:nectarblock_end']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:37: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:cinnabar_honeycomb_block', 2x 'resourcefulbees:rgbee_honeycomb_block'] -> ['kubejs:nectarblock_lapis']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:44: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'thermal:lumium_block'] -> ['kubejs:nectarblock_lumium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:51: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:pigman_honeycomb_block', 2x 'tconstruct:pig_iron_block'] -> ['kubejs:nectarblock_pig_iron']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:58: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:cinnabar_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_redstone']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier6.js:65: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'mekanism:block_refined_glowstone', 2x 'resourcefulbees:pigman_honeycomb_block'] -> ['kubejs:nectarblock_refined_glowstone']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'draconicevolution:awakened_draconium_block', 2x 'resourcefulbees:draconium_honeycomb_block'] -> ['kubejs:nectarblock_awakened_draconium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:enderium_honeycomb_block', 2x 'resourcefulbees:terrasteel_honeycomb_block'] -> ['kubejs:nectarblock_draconium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:23: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:diamond_honeycomb_block', 2x 'resourcefulbees:rgbee_honeycomb_block'] -> ['kubejs:nectarblock_emerald']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:30: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'thermal:enderium_block', 2x 'resourcefulbees:diamond_honeycomb_block'] -> ['kubejs:nectarblock_enderium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:37: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'botania:terrasteel_block', 2x 'resourcefulbees:manasteel_honeycomb_block'] -> ['kubejs:nectarblock_terrasteel']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier9.js:44: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 32x 'draconicevolution:awakened_draconium_block', 8x 'draconicevolution:dragon_heart'] -> ['kubejs:nectarblock_chaos']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier7.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'botania:blaze_block', 2x 'resourcefulbees:redstone_honeycomb_block'] -> ['kubejs:nectarblock_blaze']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier7.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'minecraft:purpur_block', 2x 'resourcefulbees:end_honeycomb_block'] -> ['kubejs:nectarblock_chorus']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier7.js:23: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'minecraft:dragon_egg', 2x 'resourcefulbees:end_honeycomb_block'] -> ['kubejs:nectarblock_dragon']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier7.js:30: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 16x 'fluxnetworks:flux_dust', 2x 'resourcefulbees:redstone_honeycomb_block'] -> ['kubejs:nectarblock_flux']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier7.js:37: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'thermal:signalum_block', 2x 'resourcefulbees:redstone_honeycomb_block'] -> ['kubejs:nectarblock_signalum']
+[07:50:23] [INFO ] server_scripts:jarmod/sub_zero_temp.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"minecraft:water",Amount:1000}}')] -> ['minecraft:ice']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:11: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:nether_honeycomb_block', 2x 'resourcefulbees:obsidian_honeycomb_block'] -> ['kubejs:nectarblock_ancient']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:18: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:nickel_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_copper']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:25: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:manasteel_honeycomb_block', 2x 'botania:elementium_block'] -> ['kubejs:nectarblock_elementium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:32: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:skeleton_honeycomb_block', 2x 'resourcefulbees:zombie_honeycomb_block'] -> ['kubejs:nectarblock_ender']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:39: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'resourcefulbees:nickel_honeycomb_block'] -> ['kubejs:nectarblock_invar']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:46: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:nether_honeycomb_block', 2x 'minecraft:quartz_block'] -> ['kubejs:nectarblock_quartz']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:53: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:silver_honeycomb_block', 2x 'resourcefulbees:lead_honeycomb_block'] -> ['kubejs:nectarblock_osmium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:60: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:steel_honeycomb_block', 2x 'mekanism:radioactive_waste_barrel'] -> ['kubejs:nectarblock_radioactive']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:67: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:zombie_honeycomb_block', 2x 'minecraft:white_wool'] -> ['kubejs:nectarblock_sheep']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:74: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:slimy_honeycomb_block', 2x 'tconstruct:slimesteel_block'] -> ['kubejs:nectarblock_slimesteel']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:81: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:creeper_honeycomb_block', 2x 'resourcefulbees:salt_honeycomb_block'] -> ['kubejs:nectarblock_sulfur']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier3.js:88: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:skeleton_honeycomb_block', 2x 'minecraft:wither_skeleton_skull'] -> ['kubejs:nectarblock_wither_skeleton']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:11: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'thermal:tin_block', 2x 'resourcefulbees:diorite_honeycomb_block'] -> ['kubejs:nectarblock_apatite']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:18: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"astralsorcery:liquid_starlight",Amount:1000}}'), 2x 'resourcefulbees:marble_honeycomb_block'] -> ['kubejs:nectarblock_astral']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:25: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:sand_honeycomb_block', 2x 'resourcefulbees:coal_honeycomb_block'] -> ['kubejs:nectarblock_bituminous_sand']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:32: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'resourcefulbees:rgbee_honeycomb_block'] -> ['kubejs:nectarblock_black_iron']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:39: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'minecraft:tnt'] -> ['kubejs:nectarblock_compressed_iron']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:46: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:slimy_honeycomb_block', 2x 'thermal:gunpowder_block'] -> ['kubejs:nectarblock_creeper']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:53: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:coal_honeycomb_block', 2x 'powah:dielectric_paste'] -> ['kubejs:nectarblock_dielectric_paste']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:60: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'botania:manasteel_block'] -> ['kubejs:nectarblock_manasteel']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:67: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:obsidian_honeycomb_block', 2x 'compressium:netherrack_1'] -> ['kubejs:nectarblock_nether']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:74: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_nickel']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:81: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:clay_honeycomb_block', 2x '#tconstruct:seared_blocks'] -> ['kubejs:nectarblock_seared']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:88: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:lead_honeycomb_block', 2x 'resourcefulbees:andesite_honeycomb_block'] -> ['kubejs:nectarblock_silver']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:95: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:slimy_honeycomb_block', 2x 'minecraft:bone_block'] -> ['kubejs:nectarblock_skeleton']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:102: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:iron_honeycomb_block', 2x 'mekanism:block_steel'] -> ['kubejs:nectarblock_steel']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier2.js:109: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:slimy_honeycomb_block', 32x 'minecraft:rotten_flesh'] -> ['kubejs:nectarblock_zombie']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:9: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'thermal:tin_block', 2x 'thermal:copper_block'] -> ['kubejs:nectarblock_bronze']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:16: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'appliedenergistics2:quartz_block', 2x 'resourcefulbees:nether_quartz_honeycomb_block'] -> ['kubejs:nectarblock_certus']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:23: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'tconstruct:cobalt_block', 2x 'resourcefulbees:nether_quartz_honeycomb_block'] -> ['kubejs:nectarblock_cobalt']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:30: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'thermal:copper_block', 2x 'thermal:nickel_block'] -> ['kubejs:nectarblock_constantan']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:37: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:copper_honeycomb_block', 2x 'resourcefulbees:cobblestone_honeycomb_block'] -> ['kubejs:nectarblock_gold']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:44: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'resourcefulbees:osmium_honeycomb_block', 2x 'resourcefulbees:salt_honeycomb_block'] -> ['kubejs:nectarblock_lithium']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:51: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'mekanism:block_refined_obsidian', 2x 'resourcefulbees:obsidian_honeycomb_block'] -> ['kubejs:nectarblock_refined_obsidian']
+[07:50:23] [INFO ] server_scripts:jarmod/nectarblock_tier4.js:58: + ftbjarmod:jar: [Item.of('ftblibrary:fluid_container', '{Fluid:{FluidName:"resourcefulbees:honey",Amount:1000}}'), 2x 'minecraft:wither_rose', 2x 'extendedcrafting:nether_star_block'] -> ['kubejs:nectarblock_wither']
+[07:50:23] [INFO ] server_scripts:extendedcrafting/ec.js:2: + extendedcrafting:shapeless_table: [Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:rottenflesh"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:constantan"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:cobalt"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:terrasteel"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:rosegold"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:uranium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:blaze"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:osmium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:gunpowder"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:salt"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:lapis_lazuli"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:electrum"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:redstone"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:compressediron"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:refinedobsidian"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:emerald"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:rubber"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:niter"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:steel"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:bone"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:coal"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:hepatizon"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:prismarine"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:iron"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:starmetal"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:netherite"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:fluix"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:sulfur"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:slimesteel"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:glowstone"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:tin"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:netherstar"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:clay"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:nickel"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:certus"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:silicon"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:blitz"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:signalum"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:end"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:chorus"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:manyullyn"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:lead"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:ice"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:quartz"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:gold"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:diamond"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:apatite"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:elementium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:blackiron"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:basalz"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:bronze"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:lithium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:slime"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:draconium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:conduit"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:lumium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:bitumen"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:obsidian"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:wool"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:queensslime"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:silver"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:witherskeleton"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:manasteel"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:dielectric"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:fluorite"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:enderium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:copper"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:refinedglowstone"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:dragonegg"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:flux"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:awakeneddraconium"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:invar"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:marble"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:seared"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:blizz"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:cinnabar"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:pigiron"}'), Item.of('extendedcrafting:singularity', '{Id:"extendedcrafting:enderpearl"}')] -> ['extendedcrafting:ultimate_singularity']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:5: - industrialforegoing:laser_drill_ore/gold[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:gold_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:6: - industrialforegoing:laser_drill_ore/tin[industrialforegoing:laser_drill_ore]: [] -> ['thermal:tin_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:7: - industrialforegoing:laser_drill_ore/lead[industrialforegoing:laser_drill_ore]: [] -> ['thermal:lead_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:8: - industrialforegoing:laser_drill_ore/nickel[industrialforegoing:laser_drill_ore]: [] -> ['thermal:nickel_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:9: - industrialforegoing:laser_drill_ore/niter[industrialforegoing:laser_drill_ore]: [] -> ['thermal:niter_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:10: - industrialforegoing:laser_drill_ore/osmium[industrialforegoing:laser_drill_ore]: [] -> ['mekanism:osmium_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:11: - industrialforegoing:laser_drill_ore/certus_quartz[industrialforegoing:laser_drill_ore]: [] -> ['appliedenergistics2:quartz_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:12: - industrialforegoing:laser_drill_ore/uranium[industrialforegoing:laser_drill_ore]: [] -> ['mekanism:uranium_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:13: - industrialforegoing:laser_drill_ore/redstone[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:redstone_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:14: - industrialforegoing:laser_drill_ore/silver[industrialforegoing:laser_drill_ore]: [] -> ['thermal:silver_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:16: - industrialforegoing:laser_drill_ore/cinnabar[industrialforegoing:laser_drill_ore]: [] -> ['thermal:cinnabar_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:17: - industrialforegoing:laser_drill_ore/coal[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:coal_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:18: - industrialforegoing:laser_drill_ore/copper[industrialforegoing:laser_drill_ore]: [] -> ['thermal:copper_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:19: - industrialforegoing:laser_drill_ore/diamond[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:diamond_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:20: - industrialforegoing:laser_drill_ore/emerald[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:emerald_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:21: - industrialforegoing:laser_drill_ore/fluorite[industrialforegoing:laser_drill_ore]: [] -> ['mekanism:fluorite_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:22: - industrialforegoing:laser_drill_ore/iron[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:iron_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:23: - industrialforegoing:laser_drill_ore/lapis[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:lapis_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:24: - industrialforegoing:laser_drill_ore/sulfur[industrialforegoing:laser_drill_ore]: [] -> ['thermal:sulfur_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:25: - industrialforegoing:laser_drill_ore/glowstone[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:glowstone']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:28: - industrialforegoing:laser_drill_ore/sapphire[industrialforegoing:laser_drill_ore]: [] -> ['thermal:sapphire_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:29: - industrialforegoing:laser_drill_ore/ruby[industrialforegoing:laser_drill_ore]: [] -> ['thermal:ruby_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:33: - industrialforegoing:laser_drill_ore/ancient_debris[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:ancient_debris']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:34: - industrialforegoing:laser_drill_ore/cobalt[industrialforegoing:laser_drill_ore]: [] -> ['tconstruct:cobalt_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/laser.js:35: - industrialforegoing:laser_drill_ore/quartz[industrialforegoing:laser_drill_ore]: [] -> ['minecraft:nether_quartz_ore']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/andesite[industrialforegoing:stonework_generate]: [] -> ['minecraft:andesite']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/obsidian[industrialforegoing:stonework_generate]: [] -> ['minecraft:obsidian']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/diorite[industrialforegoing:stonework_generate]: [] -> ['minecraft:diorite']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/netherrack[industrialforegoing:stonework_generate]: [] -> ['minecraft:netherrack']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/cobblestone[industrialforegoing:stonework_generate]: [] -> ['minecraft:cobblestone']
+[07:50:23] [INFO ] server_scripts:industrialforegoing/stoneworkfactory.js:3: - industrialforegoing:stonework_generate/granite[industrialforegoing:stonework_generate]: [] -> ['minecraft:granite']
+[07:50:23] [INFO ] server_scripts:appliedenergistics2/empty_storage_cell.js:2: + industrialforegoing:dissolution_chamber: [] -> []
+[07:50:23] [INFO ] server_scripts:appliedenergistics2/storage_components_cell_1k_part.js:2: + industrialforegoing:dissolution_chamber: [] -> []
+[07:50:23] [INFO ] server_scripts:appliedenergistics2/fluid_storage_components_cell_1k_part.js:2: + industrialforegoing:dissolution_chamber: [] -> []
+[07:50:23] [INFO ] ~ appliedenergistics2:network/wireless_booster[minecraft:crafting_shaped]: IN '#appliedenergistics2:dusts/ender' -> 'thermal:ender_pearl_dust'
+[07:50:23] [INFO ] Posted recipe events in 358.0 ms
+[07:50:24] [INFO ] Modified & removed recipes in 310.8 ms
+[07:50:24] [WARN ] Error creating recipe tconstruct:kjs_adudmlu8b3nysz4c70eoyjzyx[tconstruct:casting_basin]: {"type":"tconstruct:casting_basin","fluid":{"name":"kubejs:molten_compressed_iron","amount":1000},"result":"compressium:iron_1","cooling_time":180}: com.google.gson.JsonSyntaxException: Unknown fluid 'kubejs:molten_compressed_iron'
+[07:50:24] [WARN ] Error creating recipe tconstruct:kjs_hapfqtx94ohyd3laj09eau8y[tconstruct:casting_basin]: {"type":"tconstruct:casting_basin","fluid":{"name":"kubejs:molten_compressed_coal","amount":1000},"result":"compressium:coal_1","cooling_time":180}: com.google.gson.JsonSyntaxException: Unknown fluid 'kubejs:molten_compressed_coal'
+[07:50:24] [WARN ] Error creating recipe astralsorcery:kjs_4mlqjzl7ug3xivyoih8b0ghz4[astralsorcery:altar]: {"type":"astralsorcery:altar","altar_type":1,"duration":200,"starlight":1400,"pattern":["AB_BA","BCDCB","_DED_","BCDCB","AB_BA"],"key":{"A":{"item":"mekanism:steel_casing"},"B":{"item":"astralsorcery:marble_pillar"},"C":{"item":"rftoolsbase:machine_frame"},"D":{"item":"thermal:machine_frame"},"E":{"item":"astralsorcery:infuser"}},"output":[{"tag":"forge:infuser","count":1}],"effects":["astralsorcery:built_in_effect_discovery_central_beam","astralsorcery:built_in_effect_attunement_sparkle"]}: com.google.gson.JsonSyntaxException: Slot 1 has an ingredient but cannot be used in altar type ATTUNEMENT
+[07:50:24] [WARN ] Error creating recipe ftbjarmod:kjs_7j6fn5lkou3z6nzvc0ugd1gvn[ftbjarmod:jar]: {"time":380,"type":"ftbjarmod:jar","output":[{"item":"minecraft:dirt","count":1}],"input":[{"ingredient":{"tag":"forge:meat_uncooked"},"count":5}]}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:meat_uncooked'
+[07:50:24] [WARN ] Error creating recipe ftbjarmod:kjs_btyg8vzutpenet654nn58qw61[ftbjarmod:jar]: {"time":380,"type":"ftbjarmod:jar","output":[{"item":"minecraft:dirt","count":1}],"input":[{"ingredient":{"tag":"forge:meat_cooked"},"count":5}]}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:meat_cooked'
+[07:50:24] [INFO ] Added recipes in 45.61 ms
+[07:50:24] [INFO ] Added 242 recipes, removed 79 recipes, modified 1 recipes, with 5 failed recipes and 0 fall-backed recipes
+[07:50:24] [WARN ] server_scripts:loottables/custom.js:6: This method is no longer supported! Use table.addPool(pool => {...})
+[07:50:24] [WARN ] server_scripts:loottables/custom.js:6: This method is no longer supported! Use event.addBlock(blockPredicate, loot => {...})
+[07:50:26] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:26] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[07:50:26] [INFO ] Collecting Custom Machine upgrades from JS scripts.

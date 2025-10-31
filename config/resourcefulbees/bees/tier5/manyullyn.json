@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_manyullyn",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier5/manyullyn_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#66329A",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "tconstruct:manyullyn_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "ancient",
+    "parent2": "cobalt",
+    "feedItem": "tconstruct:manyullyn_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "flower": "kubejs:nectarblock_marble",
+  "baseLayerTexture":"tier1/marble_bee",
+  "hasHoneycomb": true,
+  "traits":["can_swim"],
+  "maxTimeInHive": 700,
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#E4E4E4"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "astralsorcery:altar_attunement",
+        "outputs": [
+          {"outputID": "resourcefulbees:astral_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "astralsorcery:marble_pillar",
+        "outputs": [
+          {"outputID": "astralsorcery:rock_crystal", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:sand",
+        "outputs": [
+          {"outputID": "astralsorcery:aquamarine", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "astralsorcery:marble_raw"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "diorite",
+    "parent2": "sand",
+    "feedItem": "astralsorcery:marble_raw",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_blitz",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier6/blitz_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#D0EDF4",
+    "modelType": "MUSHROOM"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:blitz_rod"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "niter",
+    "feedItem": "thermal:blitz_rod",
+    "feedAmount": 2
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

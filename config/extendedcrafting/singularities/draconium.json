@@ -1,0 +1,11 @@
+{
+  "name": "Draconium",
+  "colors": [
+    "4B2866",
+    "4B2866"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/draconium"
+  },
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,41 @@
+{
+  "flower": "kubejs:nectarblock_steel",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier2/steel_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#7A7A7A",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "mekanism:radioactive_waste_barrel",
+        "outputs": [
+          {"outputID": "resourcefulbees:radioactive_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "mekanism:ingot_steel"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "iron",
+    "parent2": "coal",
+    "feedItem": "mekanism:ingot_steel",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

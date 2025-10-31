@@ -1,0 +1,11 @@
+{
+  "name": "Queen's Slime",
+  "colors": [
+    "2A7737",
+    "846E12"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/queens_slime"
+  },
+  "inUltimateSingularity": true
+}

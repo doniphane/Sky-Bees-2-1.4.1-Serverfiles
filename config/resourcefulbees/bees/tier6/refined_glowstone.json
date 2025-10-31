@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_refined_glowstone",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier6/refglowstone_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#EDC631",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "mekanism:ingot_refined_glowstone"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "osmium",
+    "feedItem": "mekanism:ingot_refined_glowstone",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

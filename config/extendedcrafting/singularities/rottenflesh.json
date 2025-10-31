@@ -1,0 +1,11 @@
+{
+  "name": "Rotten Flesh",
+  "colors": [
+    "512B10",
+    "B24320"
+  ],
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "inUltimateSingularity": true
+}

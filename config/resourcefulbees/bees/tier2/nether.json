@@ -1,0 +1,41 @@
+{
+  "flower": "kubejs:nectarblock_nether",
+  "baseLayerTexture":"tier2/nether_bee",
+  "hasHoneycomb": true,
+  "traits":["can_swim", "nether"],
+  "maxTimeInHive": 700,
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#511515"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "tag:forge:storage_blocks/quartz",
+        "outputs": [
+          {"outputID": "resourcefulbees:nether_quartz_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:netherrack",
+    "secondaryOutput": "minecraft:soul_sand"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "lava",
+    "parent2": "obsidian",
+    "feedItem": "minecraft:netherrack",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

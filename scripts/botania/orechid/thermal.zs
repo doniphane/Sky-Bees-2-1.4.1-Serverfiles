@@ -1,0 +1,10 @@
+var orechid = mods.botania.Orechid.main;
+//orechid.registerOreWeight(<block:thermal:apatite_ore>, 250);
+//orechid.registerOreWeight(<block:thermal:cinnabar_ore>, 2585);
+//orechid.registerOreWeight(<block:thermal:niter_ore>, 1469);
+//orechid.registerOreWeight(<block:thermal:sulfur_ore>, 1105);
+//orechid.registerOreWeight(<block:thermal:copper_ore>, 5567);
+//orechid.registerOreWeight(<block:thermal:tin_ore>, 8251);
+//orechid.registerOreWeight(<block:thermal:lead_ore>, 4093);
+//orechid.registerOreWeight(<block:thermal:silver_ore>, 4315);
+//orechid.registerOreWeight(<block:thermal:nickel_ore>, 2275);

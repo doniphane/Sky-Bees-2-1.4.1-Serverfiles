@@ -1,0 +1,19 @@
+{
+	id: "1c12fa40-8d1e-41b3-b042-cfd2cf34238a"
+	type: "player"
+	player_name: "Kuroiyuki974"
+	ranks: {
+		1c12fa40-8d1e-41b3-b042-cfd2cf34238a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kuroiyuki974"
+		"ftbteams:color": "#FF59F1"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

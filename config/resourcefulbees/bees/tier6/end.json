@@ -1,0 +1,40 @@
+{
+  "flower": "kubejs:nectarblock_end",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier6/endstone_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#E1E9A6"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:dragon_head",
+        "outputs": [
+          {"outputID": "resourcefulbees:dragon_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:end_stone"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "lava",
+    "feedItem": "minecraft:end_stone",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

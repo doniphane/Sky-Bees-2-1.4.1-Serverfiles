@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_invar",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier3/invar_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#C5CCC3",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:invar_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "nickel",
+    "parent2": "iron",
+    "feedItem": "thermal:invar_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

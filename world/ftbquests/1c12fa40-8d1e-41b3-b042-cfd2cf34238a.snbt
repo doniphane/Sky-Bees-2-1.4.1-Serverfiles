@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "1c12fa408d1e41b3b042cfd2cf34238a"
+	name: "Kuroiyuki974"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

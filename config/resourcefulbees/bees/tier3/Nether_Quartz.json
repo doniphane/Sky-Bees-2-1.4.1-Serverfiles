@@ -1,0 +1,48 @@
+{
+  "flower": "kubejs:nectarblock_quartz",
+  "maxTimeInHive": 1000,
+  "hasHoneycomb": true,
+  "traits": ["nether", "can_swim"],
+  "baseLayerTexture": "tier3/quartz_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#D4CABA",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "tag:forge:storage_blocks/certus_quartz",
+        "outputs": [
+          {"outputID": "resourcefulbees:certus_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "tag:forge:storage_blocks/cobalt",
+        "outputs": [
+          {"outputID": "resourcefulbees:cobalt_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:quartz",
+    "mainOutputCount": 2
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false,
+    "lightLevel": "NIGHT"
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "minecraft:quartz",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

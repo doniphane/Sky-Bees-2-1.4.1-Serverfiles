@@ -1,0 +1,55 @@
+{
+  "flower": "kubejs:nectarblock_slime",
+  "hasHoneycomb": true,
+  "traits": ["slimy", "can_swim"],
+  "maxTimeInHive": 700,
+  "baseLayerTexture": "slime/slime_bee",
+  "ColorData": {
+    "modelType": "GELATINOUS",
+    "gelLayerTexture": "/slime/slime_gel_Layer",
+    "honeycombColor": "#62B64A"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:skeleton_skull",
+        "outputs": [
+          {"outputID": "resourcefulbees:skeleton_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:creeper_head",
+        "outputs": [
+          {"outputID": "resourcefulbees:creeper_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:zombie_head",
+        "outputs": [
+          {"outputID": "resourcefulbees:zombie_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:slime_ball"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "water",
+    "parent2": "dirt",
+    "feedItem": "minecraft:slime_ball",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

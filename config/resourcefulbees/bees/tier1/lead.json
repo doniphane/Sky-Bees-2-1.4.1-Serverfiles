@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_lead",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier1/lead_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#232457",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:lead_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "cobblestone",
+    "parent2": "andesite",
+    "feedItem": "thermal:lead_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

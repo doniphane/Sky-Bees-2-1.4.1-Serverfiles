@@ -1,0 +1,11 @@
+{
+  "name": "Gunpowder",
+  "colors": [
+    "2F3233",
+    "505454"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/gunpowder"
+  },
+  "inUltimateSingularity": true
+}

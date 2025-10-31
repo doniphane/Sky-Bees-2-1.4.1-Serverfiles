@@ -1,0 +1,55 @@
+{
+  "flower": "kubejs:nectarblock_iron",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "ores/iron/iron_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#ffcc99",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "resourcefulbees:rgbee_honeycomb_block",
+        "outputs": [
+          {"outputID": "resourcefulbees:black_iron_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:tnt",
+        "outputs": [
+          {"outputID": "resourcefulbees:compressed_iron_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "botania:mana_pool",
+        "outputs": [
+          {"outputID": "resourcefulbees:manasteel_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:iron_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "cobblestone",
+    "parent2": "wood",
+    "feedItem": "minecraft:iron_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

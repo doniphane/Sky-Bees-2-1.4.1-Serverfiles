@@ -1,0 +1,41 @@
+{
+  "flower": "kubejs:nectarblock_certus",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier4/certus_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#BFDFFF",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "minecraft:furnace",
+        "outputs": [
+          {"outputID": "resourcefulbees:silicon_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "appliedenergistics2:certus_quartz_crystal",
+    "secondaryOutput": "appliedenergistics2:charged_certus_quartz_crystal",
+    "secondaryOutputWeight": 0.1
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "appliedenergistics2:certus_quartz_crystal",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

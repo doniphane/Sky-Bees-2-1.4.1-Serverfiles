@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_electrum",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier5/electrum_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#E9DA75",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:electrum_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "gold",
+    "parent2": "silver",
+    "feedItem": "thermal:electrum_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

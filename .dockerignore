@@ -1,0 +1,15 @@
+# Exclure les fichiers Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Exclure les logs (seront montés via volume)
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db

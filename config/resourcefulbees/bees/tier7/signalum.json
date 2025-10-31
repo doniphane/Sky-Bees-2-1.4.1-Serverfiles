@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_signalum",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier7/signalum_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#D31B00",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:signalum_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "redstone",
+    "parent2": "copper",
+    "feedItem": "thermal:signalum_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

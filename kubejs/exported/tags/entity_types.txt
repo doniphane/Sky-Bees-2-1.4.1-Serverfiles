@@ -1,0 +1,222 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 6, 2022 10:42:11 PM
+
+#forge:slimes
+- minecraft:slime
+- tconstruct:earth_slime
+- tconstruct:sky_slime
+- tconstruct:ender_slime
+- tconstruct:terracube
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#per-viam-invenire:replace_vanilla_navigator
+- mekanism:robit
+
+#tconstruct:rare_mobs
+- minecraft:wither
+- minecraft:ender_dragon
+- minecraft:elder_guardian
+- minecraft:evoker
+
+#industrialforegoing:mob_crusher_blacklist
+- minecraft:ender_dragon
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+- resourcefulbees:cinnabar_bee
+- resourcefulbees:yeti_bee
+- resourcefulbees:diamond_bee
+- resourcefulbees:slimy_bee
+- resourcefulbees:manyullyn_bee
+- resourcefulbees:apatite_bee
+- resourcefulbees:dragon_bee
+- resourcefulbees:lava_bee
+- resourcefulbees:enderium_bee
+- resourcefulbees:sand_bee
+- resourcefulbees:compressed_iron_bee
+- resourcefulbees:wither_bee
+- resourcefulbees:granite_bee
+- resourcefulbees:dust_bee
+- resourcefulbees:andesite_bee
+- resourcefulbees:lapis_bee
+- resourcefulbees:cobblestone_bee
+- resourcefulbees:basalz_bee
+- resourcefulbees:abbee_bee
+- resourcefulbees:blizz_bee
+- resourcefulbees:nickel_bee
+- resourcefulbees:fluorite_bee
+- resourcefulbees:elementium_bee
+- resourcefulbees:manasteel_bee
+- resourcefulbees:ancient_bee
+- resourcefulbees:chorous_bee
+- resourcefulbees:zombie_bee
+- resourcefulbees:rubber_bee
+- resourcefulbees:constantan_bee
+- resourcefulbees:seared_bee
+- resourcefulbees:prismarine_bee
+- resourcefulbees:fishi_bee
+- resourcefulbees:lithium_bee
+- resourcefulbees:wood_bee
+- resourcefulbees:gold_bee
+- resourcefulbees:invar_bee
+- resourcefulbees:creeper_bee
+- resourcefulbees:diorite_bee
+- resourcefulbees:skeleton_bee
+- resourcefulbees:refined_obsidian_bee
+- resourcefulbees:certus_bee
+- resourcefulbees:lead_bee
+- resourcefulbees:kitten_bee
+- resourcefulbees:clay_bee
+- resourcefulbees:wither_skeleton_bee
+- resourcefulbees:pig_iron_bee
+- resourcefulbees:dungeon_bee
+- resourcefulbees:tin_bee
+- resourcefulbees:water_bee
+- resourcefulbees:slimesteel_bee
+- resourcefulbees:redstone_bee
+- resourcefulbees:rgbee_bee
+- resourcefulbees:starry_bee
+- resourcefulbees:sulfur_bee
+- resourcefulbees:osmium_bee
+- resourcefulbees:iron_bee
+- resourcefulbees:nether_quartz_bee
+- resourcefulbees:ender_bee
+- resourcefulbees:nether_bee
+- resourcefulbees:hepatizon_bee
+- resourcefulbees:rose_gold_bee
+- resourcefulbees:blitz_bee
+- resourcefulbees:pigman_bee
+- resourcefulbees:radioactive_bee
+- resourcefulbees:black_iron_bee
+- resourcefulbees:blaze_bee
+- resourcefulbees:dielectric_paste_bee
+- resourcefulbees:snowball_bee
+- resourcefulbees:bituminous_sand_bee
+- resourcefulbees:copper_bee
+- resourcefulbees:signalum_bee
+- resourcefulbees:oreo_bee
+- resourcefulbees:sea_bee
+- resourcefulbees:flux_bee
+- resourcefulbees:bronze_bee
+- resourcefulbees:emerald_bee
+- resourcefulbees:queens_slime_bee
+- resourcefulbees:coal_bee
+- resourcefulbees:lumium_bee
+- resourcefulbees:silver_bee
+- resourcefulbees:obsidian_bee
+- resourcefulbees:astral_bee
+- resourcefulbees:cobalt_bee
+- resourcefulbees:refined_glowstone_bee
+- resourcefulbees:silicon_bee
+- resourcefulbees:sheep_bee
+- resourcefulbees:salt_bee
+- resourcefulbees:gravel_bee
+- resourcefulbees:end_bee
+- resourcefulbees:dirt_bee
+- resourcefulbees:terrasteel_bee
+- resourcefulbees:steel_bee
+- resourcefulbees:electrum_bee
+- resourcefulbees:fluix_bee
+- resourcefulbees:icy_bee
+- resourcefulbees:niter_bee
+- resourcefulbees:marble_bee
+
+#forge:creepers
+- minecraft:creeper
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+
+#tconstruct:melting/show_in_default
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:villager
+- minecraft:player
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#tconstruct:bacon_producer
+- minecraft:pig
+- minecraft:piglin
+- minecraft:hoglin
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- quark:frog?
+
+#tconstruct:piggybackpack_blacklist
+
+#industrialforegoing:mob_duplicator_blacklist
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#mob_grinding_utils:noswab
+- minecraft:wither
+- minecraft:ender_dragon
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+
+#tconstruct:melting/hide_in_default
+- minecraft:giant

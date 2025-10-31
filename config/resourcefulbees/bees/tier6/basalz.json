@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_basalz",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier6/basalz_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#383C42",
+    "modelType": "MUSHROOM"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:basalz_rod"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "obsidian",
+    "feedItem": "thermal:basalz_rod",
+    "feedAmount": 2
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

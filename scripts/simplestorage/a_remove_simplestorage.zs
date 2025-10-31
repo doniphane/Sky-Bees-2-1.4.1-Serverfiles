@@ -1,0 +1,11 @@
+craftingTable.removeRecipe(<item:storagenetwork:export_kabel>);
+craftingTable.removeRecipe(<item:storagenetwork:import_kabel>);
+craftingTable.removeRecipe(<item:storagenetwork:import_filter_kabel>);
+craftingTable.removeRecipe(<item:storagenetwork:inventory_remote>);
+craftingTable.removeRecipe(<item:storagenetwork:crafting_remote>);
+craftingTable.removeRecipe(<item:storagenetwork:picker_remote>);
+craftingTable.removeRecipe(<item:storagenetwork:collector_remote>);
+craftingTable.removeRecipe(<item:storagenetwork:builder_remote>);
+craftingTable.removeRecipe(<item:storagenetwork:filter_kabel>);
+craftingTable.removeRecipe(<item:storagenetwork:master>);
+craftingTable.removeRecipe(<item:storagenetwork:inventory>);

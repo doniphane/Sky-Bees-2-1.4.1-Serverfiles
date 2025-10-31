@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_pig_iron",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 800,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier6/pigiron_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#F4AFAB",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "tconstruct:pig_iron_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "iron",
+    "feedItem": "tconstruct:pig_iron_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

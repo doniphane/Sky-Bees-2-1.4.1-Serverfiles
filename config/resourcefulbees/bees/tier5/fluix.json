@@ -1,0 +1,31 @@
+{
+  "flower": "kubejs:nectarblock_fluix",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier5/fluix_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#644FAB"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "appliedenergistics2:fluix_crystal"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "certus",
+    "parent2": "nether_quartz",
+    "feedItem": "appliedenergistics2:fluix_crystal",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

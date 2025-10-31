@@ -1,0 +1,16 @@
+furnace.removeRecipe(<item:tconstruct:seared_brick>);
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/copper/ingot_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/copper/ingot_sand_cast");
+<recipetype:tconstruct:casting_basin>.removeByName("tconstruct:smeltery/casting/metal/copper/block");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/copper/nugget_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/copper/nugget_sand_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/tin/ingot_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/tin/ingot_sand_cast");
+<recipetype:tconstruct:casting_basin>.removeByName("tconstruct:smeltery/casting/metal/tin/block");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/tin/nugget_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/tin/nugget_sand_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/bronze/ingot_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/bronze/ingot_sand_cast");
+<recipetype:tconstruct:casting_basin>.removeByName("tconstruct:smeltery/casting/metal/bronze/block");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/bronze/nugget_gold_cast");
+<recipetype:tconstruct:casting_table>.removeByName("tconstruct:smeltery/casting/metal/bronze/nugget_sand_cast");

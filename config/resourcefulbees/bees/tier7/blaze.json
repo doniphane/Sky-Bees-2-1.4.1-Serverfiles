@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_blaze",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier7/blaze_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#FFFB65",
+    "modelType": "MUSHROOM"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "minecraft:blaze_rod"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "pigman",
+    "parent2": "redstone",
+    "feedItem": "minecraft:blaze_rod",
+    "feedAmount": 2
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

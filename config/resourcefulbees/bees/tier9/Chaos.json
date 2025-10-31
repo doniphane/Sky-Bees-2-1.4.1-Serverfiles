@@ -1,0 +1,40 @@
+{
+  "flower": "kubejs:nectarblock_chaos",
+  "maxTimeInHive": 2400,
+  "hasHoneycomb": true,
+  "baseLayerTexture" : "dragon/dragon_bee",
+  "traits": [ "ender", "nether", "wither", "can_swim" ],
+  "ColorData": {
+    "isBeeColored": true,
+    "isGlowing": true,
+    "modelType": "DRAGON",
+    "primaryLayerTexture": "dragon/dragon_bee_primary",
+    "secondaryLayerTexture": "dragon/dragon_bee_secondary",
+    "emissiveLayerTexture": "dragon/dragon_bee_emissive",
+    "primaryColor": "#000000",
+    "secondaryColor": "#1E1E1E",
+    "glowColor": "#0A0A0A",
+    "honeycombColor": "#0A0A0A"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "draconicevolution:small_chaos_frag",
+    "mainOutputWeight": 0.01
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "awakened_draconium",
+    "parent2": "dragon",
+    "feedItem": "draconicevolution:chaos_shard",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

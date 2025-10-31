@@ -1,0 +1,317 @@
+{
+  "groupOverrides": {
+    "Vanilla Seeds": {
+      "enabled": true
+    },
+    "Vanilla Saplings": {
+      "enabled": false
+    },
+    "Bone Meal": {
+      "enabled": false
+    }
+  },
+  "customCategories": {
+    "nether": {
+      "name": "Nether",
+      "icon": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    "saplings": {
+      "name": "Saplings",
+      "icon": {
+        "item": "minecraft:oak_sapling"
+      }
+    },
+    "thermal": {
+      "name": "Thermal",
+      "icon": {
+        "item": "thermal:machine_frame"
+      }
+    },
+    "tinkers": {
+      "name": "Tinkers",
+      "icon": {
+        "item": "tconstruct:smeltery_controller"
+      }
+    },
+    "other": {
+      "name": "Other",
+      "icon": {
+        "item": "minecraft:bone_meal"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:nether_wart"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "nether"
+    },
+    {
+      "output": {
+        "item": "tconstruct:earth_slime_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "thermal:frost_melon_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "tconstruct:ender_slime_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "tconstruct:sky_slime_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "tconstruct:earth_slime_grass_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "tconstruct:sky_slime_grass_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "tconstruct:ender_slime_grass_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "tconstruct:blood_slime_grass_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "tinkers"
+    },
+    {
+      "output": {
+        "item": "minecraft:bone_meal"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "other"
+    },
+    {
+      "output": {
+        "item": "minecraft:seagrass"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "other"
+    },
+    {
+      "output": {
+        "item": "minecraft:sea_pickle"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "other"
+    },
+    {
+      "output": {
+        "item": "thermal:spinach_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:tea_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:radish_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:amaranth_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:flax_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:onion_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:sadiroot_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:barley_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:hops_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:bell_pepper_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:corn_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:rice_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:eggplant_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:tomato_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:peanut_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:strawberry_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:green_bean_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    },
+    {
+      "output": {
+        "item": "thermal:coffee_seeds"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "thermal"
+    }
+  ]
+}

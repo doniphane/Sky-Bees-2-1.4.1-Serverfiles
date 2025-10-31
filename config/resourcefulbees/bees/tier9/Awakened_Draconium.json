@@ -1,0 +1,38 @@
+{
+  "flower": "kubejs:nectarblock_awakened_draconium",
+  "maxTimeInHive": 2400,
+  "hasHoneycomb": true,
+  "baseLayerTexture" : "dragon/dragon_bee",
+  "traits": [ "ender", "nether", "wither", "can_swim" ],
+  "ColorData": {
+    "isBeeColored": true,
+    "isGlowing": true,
+    "modelType": "DRAGON",
+    "primaryLayerTexture": "dragon/dragon_bee_primary",
+    "secondaryLayerTexture": "dragon/dragon_bee_secondary",
+    "emissiveLayerTexture": "dragon/dragon_bee_emissive",
+    "primaryColor": "#CE460D",
+    "secondaryColor": "#B52E00",
+    "glowColor": "#D65D0B",
+    "honeycombColor": "#CE460D"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "draconicevolution:awakened_draconium_ingot",
+    "mainOutputWeight": 0.10
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "draconicevolution:awakened_draconium_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

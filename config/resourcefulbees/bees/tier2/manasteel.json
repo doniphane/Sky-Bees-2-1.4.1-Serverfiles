@@ -1,0 +1,46 @@
+{
+  "flower": "kubejs:nectarblock_manasteel",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier2/manasteel_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#4CABF2",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": true,
+    "mutations" : [
+      {
+        "type": "ITEM",
+        "inputID": "botania:alfheim_portal",
+        "outputs": [
+          {"outputID": "resourcefulbees:elementium_bee_spawn_egg", "weight": 10}
+        ]
+      },
+      {
+        "type": "ITEM",
+        "inputID": "botania:terra_plate",
+        "outputs": [
+          {"outputID": "resourcefulbees:terrasteel_bee_spawn_egg", "weight": 10}
+        ]
+      }
+  ]
+},
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "botania:manasteel_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "feedItem": "botania:manasteel_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "flower": "kubejs:nectarblock_tin",
+  "hasHoneycomb": true,
+  "maxTimeInHive": 700,
+  "traits":["can_swim"],
+  "baseLayerTexture": "tier1/tin_bee",
+  "ColorData": {
+    "isBeeColored": false,
+    "honeycombColor": "#7BA2A6",
+    "modelType": "ORE"
+  },
+  "MutationData": {
+    "hasMutation": false
+  },
+  "CentrifugeData": {
+    "hasCentrifugeOutput": true,
+    "mainOutput": "thermal:tin_ingot"
+  },
+  "SpawnData": {
+    "canSpawnInWorld": false
+  },
+  "BreedData": {
+    "isBreedable": true,
+    "parent1": "cobblestone",
+    "parent2": "diorite",
+    "feedItem": "thermal:tin_ingot",
+    "feedAmount": 1
+  },
+  "TraitData": {
+    "hasTraits": true
+  }
+}

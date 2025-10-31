@@ -1,0 +1,11 @@
+{
+  "name": "Cinnabar",
+  "colors": [
+    "4D041A",
+    "932A33"
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/cinnabar"
+  },
+  "inUltimateSingularity": true
+}

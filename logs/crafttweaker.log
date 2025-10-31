@@ -1,0 +1,754 @@
+[07:49:46.797][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[07:49:51.322][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'appliedenergisticstweaker' at version '1.0.0.15'
+'astralsorcery' at version '1.16.4-1.14.1'
+'bloodmagic' at version '1.16.4-3.1.13-39'
+'botania' at version '1.16.5-420.2'
+'botanypots' at version '7.1.39'
+'crafttweaker' at version '7.1.2.512'
+'custommachinery' at version '1.16.5-0.5.8i'
+'draconicevolution' at version '3.0.27.462'
+'extendedcrafting' at version '3.1.12'
+'gamestages' at version '7.3.14'
+'jaopca' at version '3.4.3.26'
+'jeitweaker' at version '1.1.0.49'
+'lazierae2' at version '2.0.4'
+'mekanism' at version '10.1.2'
+'pneumaticcraft' at version '1.16.5-2.15.11-334'
+'recipestages' at version '2.0.0.21'
+'tconstruct' at version '3.3.4.335'
+'thermal' at version '1.5.0.14'
+'thermal_foundation' at version '1.5.0.14'
+[07:49:52.740][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[07:50:04.846][LOAD_REGISTRIES][CLIENT][INFO] Started loading Scripts for Loader 'mekanismcontent'!
+[07:50:05.744][LOAD_REGISTRIES][CLIENT][INFO] Finished loading Scripts!
+[07:50:05.749][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom gases.
+[07:50:05.761][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom infuse types.
+[07:50:05.768][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom pigments.
+[07:50:05.771][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom robit skins.
+[07:50:05.774][LOAD_REGISTRIES][CLIENT][INFO] Registering 0 custom slurries.
+[07:50:07.844][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[07:50:08.067][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[07:50:27.226][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[07:50:27.314][DONE][CLIENT][INFO] Loading file: 'Bloodmagic/a_remove_bm.zs' with priority: 10
+[07:50:27.316][DONE][CLIENT][INFO] Loading file: 'Bloodmagic/add_recipe_bm.zs' with priority: 10
+[07:50:27.317][DONE][CLIENT][INFO] Loading file: 'JEI/a_remove_fluid_jei.zs' with priority: 10
+[07:50:27.317][DONE][CLIENT][INFO] Loading file: 'JEI/a_remove_jei.zs' with priority: 10
+[07:50:27.318][DONE][CLIENT][INFO] Loading file: 'JEI/a_remove_jei2.zs' with priority: 10
+[07:50:27.320][DONE][CLIENT][INFO] Loading file: 'JEI/a_remove_jei3.zs' with priority: 10
+[07:50:27.321][DONE][CLIENT][INFO] Loading file: 'JEI/add.zs' with priority: 10
+[07:50:27.322][DONE][CLIENT][INFO] Loading file: 'Rftools/a_remove_rftools.zs' with priority: 10
+[07:50:27.322][DONE][CLIENT][INFO] Loading file: 'Rftools/add_recipe_rftools.zs' with priority: 10
+[07:50:27.322][DONE][CLIENT][INFO] Loading file: 'Tags/a_remove_tags.zs' with priority: 10
+[07:50:27.331][DONE][CLIENT][INFO] Loading file: 'Tags/a_remove_tags_material.zs' with priority: 10
+[07:50:27.333][DONE][CLIENT][INFO] Loading file: 'Tags/add_tag.zs' with priority: 10
+[07:50:27.335][DONE][CLIENT][INFO] Loading file: 'angelring/a_remove_ar.zs' with priority: 10
+[07:50:27.335][DONE][CLIENT][INFO] Loading file: 'angelring/add_recipe_ar.zs' with priority: 10
+[07:50:27.336][DONE][CLIENT][INFO] Loading file: 'animalcrops/a_remove_ac.zs' with priority: 10
+[07:50:27.336][DONE][CLIENT][INFO] Loading file: 'animalcrops/add_recipe_ac.zs' with priority: 10
+[07:50:27.337][DONE][CLIENT][INFO] Loading file: 'appliedenergistics/a_remove_ae.zs' with priority: 10
+[07:50:27.338][DONE][CLIENT][INFO] Loading file: 'appliedenergistics/a_remove_lae.zs' with priority: 10
+[07:50:27.338][DONE][CLIENT][INFO] Loading file: 'appliedenergistics/add_recipe_ae.zs' with priority: 10
+[07:50:27.340][DONE][CLIENT][INFO] Loading file: 'appliedenergistics/add_recipe_lae.zs' with priority: 10
+[07:50:27.340][DONE][CLIENT][INFO] Loading file: 'astralsorcery/a_remove_astral.zs' with priority: 10
+[07:50:27.340][DONE][CLIENT][INFO] Loading file: 'astralsorcery/add_recipe_altar.zs' with priority: 10
+[07:50:27.341][DONE][CLIENT][INFO] Loading file: 'astralsorcery/add_recipe_astral.zs' with priority: 10
+[07:50:27.342][DONE][CLIENT][INFO] Loading file: 'botania/a_remove_botania.zs' with priority: 10
+[07:50:27.342][DONE][CLIENT][INFO] Loading file: 'botania/add_recipe_botania.zs' with priority: 10
+[07:50:27.343][DONE][CLIENT][INFO] Loading file: 'botania/orechid/a_remove_orechid.zs' with priority: 10
+[07:50:27.343][DONE][CLIENT][INFO] Loading file: 'botania/orechid/appliedenergistics.zs' with priority: 10
+[07:50:27.343][DONE][CLIENT][INFO] Loading file: 'botania/orechid/astral.zs' with priority: 10
+[07:50:27.343][DONE][CLIENT][INFO] Loading file: 'botania/orechid/custom.zs' with priority: 10
+[07:50:27.344][DONE][CLIENT][INFO] Loading file: 'botania/orechid/mekanism.zs' with priority: 10
+[07:50:27.344][DONE][CLIENT][INFO] Loading file: 'botania/orechid/powah.zs' with priority: 10
+[07:50:27.344][DONE][CLIENT][INFO] Loading file: 'botania/orechid/thermal.zs' with priority: 10
+[07:50:27.344][DONE][CLIENT][INFO] Loading file: 'botania/orechid/vanilla.zs' with priority: 10
+[07:50:27.345][DONE][CLIENT][INFO] Loading file: 'botania/orechid_ignem/a_remove_orechidignem.zs' with priority: 10
+[07:50:27.345][DONE][CLIENT][INFO] Loading file: 'botania/orechid_ignem/rftools.zs' with priority: 10
+[07:50:27.345][DONE][CLIENT][INFO] Loading file: 'botania/orechid_ignem/tinkers.zs' with priority: 10
+[07:50:27.346][DONE][CLIENT][INFO] Loading file: 'botania/orechid_ignem/vanilla.zs' with priority: 10
+[07:50:27.346][DONE][CLIENT][INFO] Loading file: 'botanypots/a_remove_bp.zs' with priority: 10
+[07:50:27.346][DONE][CLIENT][INFO] Loading file: 'botanypots/add_recipe_bp.zs' with priority: 10
+[07:50:27.346][DONE][CLIENT][INFO] Loading file: 'chiselandbits/a_remove_cab.zs' with priority: 10
+[07:50:27.347][DONE][CLIENT][INFO] Loading file: 'cobblefordays/a_remove_cobblegen.zs' with priority: 10
+[07:50:27.347][DONE][CLIENT][INFO] Loading file: 'cobblefordays/add_recipe_cobblegen.zs' with priority: 10
+[07:50:27.348][DONE][CLIENT][INFO] Loading file: 'compactcrafting/a_remove_compactcrafing.zs' with priority: 10
+[07:50:27.348][DONE][CLIENT][INFO] Loading file: 'compactcrafting/add_recipe_compactcrafting.zs' with priority: 10
+[07:50:27.348][DONE][CLIENT][INFO] Loading file: 'compressium/a_remove_comp.zs' with priority: 10
+[07:50:27.349][DONE][CLIENT][INFO] Loading file: 'compressium/add_recipe_comp.zs' with priority: 10
+[07:50:27.350][DONE][CLIENT][INFO] Loading file: 'creative/add_recipe_creative.zs' with priority: 10
+[07:50:27.352][DONE][CLIENT][INFO] Loading file: 'custom/a_remove_custom.zs' with priority: 10
+[07:50:27.352][DONE][CLIENT][INFO] Loading file: 'custom/add_recipe_custom.zs' with priority: 10
+[07:50:27.353][DONE][CLIENT][INFO] Loading file: 'draconicevolution/a_remove_de.zs' with priority: 10
+[07:50:27.353][DONE][CLIENT][INFO] Loading file: 'draconicevolution/add_recipe_de.zs' with priority: 10
+[07:50:27.353][DONE][CLIENT][INFO] Loading file: 'extendedcrafting/a_remove_ec.zs' with priority: 10
+[07:50:27.353][DONE][CLIENT][INFO] Loading file: 'extendedcrafting/add_recipe_ec.zs' with priority: 10
+[07:50:27.354][DONE][CLIENT][INFO] Loading file: 'industrialforegoing/a_remove_if.zs' with priority: 10
+[07:50:27.354][DONE][CLIENT][INFO] Loading file: 'industrialforegoing/add_recipe_if.zs' with priority: 10
+[07:50:27.354][DONE][CLIENT][INFO] Loading file: 'jaopca/a_remove_jaopca.zs' with priority: 10
+[07:50:27.354][DONE][CLIENT][INFO] Loading file: 'jaopca/add_receipe_jaopca.zs' with priority: 10
+[07:50:27.355][DONE][CLIENT][INFO] Loading file: 'jarmod/a_remove_jar.zs' with priority: 10
+[07:50:27.355][DONE][CLIENT][INFO] Loading file: 'jarmod/add_recipe_jar.zs' with priority: 10
+[07:50:27.355][DONE][CLIENT][INFO] Loading file: 'kubejs/add_recipe_js.zs' with priority: 10
+[07:50:27.356][DONE][CLIENT][INFO] Loading file: 'mekanism/a_remove_mekanism.zs' with priority: 10
+[07:50:27.356][DONE][CLIENT][INFO] Loading file: 'mekanism/add_recipe_mekanism.zs' with priority: 10
+[07:50:27.356][DONE][CLIENT][INFO] Loading file: 'minecraft/a_remove_mc.zs' with priority: 10
+[07:50:27.356][DONE][CLIENT][INFO] Loading file: 'minecraft/add_campfire_recipe.zs' with priority: 10
+[07:50:27.357][DONE][CLIENT][INFO] Loading file: 'minecraft/add_furnace_recipe.zs' with priority: 10
+[07:50:27.357][DONE][CLIENT][INFO] Loading file: 'minecraft/add_recipe_mc.zs' with priority: 10
+[07:50:27.357][DONE][CLIENT][INFO] Loading file: 'mob_grinding_utils/a_remove_mgu.zs' with priority: 10
+[07:50:27.358][DONE][CLIENT][INFO] Loading file: 'mob_grinding_utils/add_recipe_mgu.zs' with priority: 10
+[07:50:27.358][DONE][CLIENT][INFO] Loading file: 'modularrouters/a_remove_mr.zs' with priority: 10
+[07:50:27.358][DONE][CLIENT][INFO] Loading file: 'modularrouters/add_recipe_mr.zs' with priority: 10
+[07:50:27.358][DONE][CLIENT][INFO] Loading file: 'pipez/a_remove_pipez.zs' with priority: 10
+[07:50:27.359][DONE][CLIENT][INFO] Loading file: 'pipez/add_recipe_pipez.zs' with priority: 10
+[07:50:27.359][DONE][CLIENT][INFO] Loading file: 'powah/a_remove_powah.zs' with priority: 10
+[07:50:27.359][DONE][CLIENT][INFO] Loading file: 'powah/add recipe.zs' with priority: 10
+[07:50:27.359][DONE][CLIENT][INFO] Loading file: 'recipestages/market.zs' with priority: 10
+[07:50:27.360][DONE][CLIENT][INFO] Loading file: 'resourcefulbees/a_remove_rb.zs' with priority: 10
+[07:50:27.360][DONE][CLIENT][INFO] Loading file: 'resourcefulbees/add_recipe_dye.zs' with priority: 10
+[07:50:27.361][DONE][CLIENT][INFO] Loading file: 'resourcefulbees/add_recipe_rb.zs' with priority: 10
+[07:50:27.362][DONE][CLIENT][INFO] Loading file: 'resourcefulbees/add_recipe_wood.zs' with priority: 10
+[07:50:27.362][DONE][CLIENT][INFO] Loading file: 'simplestorage/a_remove_simplestorage.zs' with priority: 10
+[07:50:27.362][DONE][CLIENT][INFO] Loading file: 'simplestorage/add_recipe_simplestorage.zs' with priority: 10
+[07:50:27.363][DONE][CLIENT][INFO] Loading file: 'telepasties/a_remove_telepasties.zs' with priority: 10
+[07:50:27.363][DONE][CLIENT][INFO] Loading file: 'tesseract/a_remove_tes.zs' with priority: 10
+[07:50:27.363][DONE][CLIENT][INFO] Loading file: 'tesseract/add_recipe_tes.zs' with priority: 10
+[07:50:27.364][DONE][CLIENT][INFO] Loading file: 'thermal/a_remove_thermal.zs' with priority: 10
+[07:50:27.364][DONE][CLIENT][INFO] Loading file: 'thermal/add_recipe_gear.zs' with priority: 10
+[07:50:27.365][DONE][CLIENT][INFO] Loading file: 'thermal/add_recipe_thermal.zs' with priority: 10
+[07:50:27.365][DONE][CLIENT][INFO] Loading file: 'tinkers/a_remove_tinkers.zs' with priority: 10
+[07:50:27.365][DONE][CLIENT][INFO] Loading file: 'tinkers/add_recipe_tinkers.zs' with priority: 10
+[07:50:27.365][DONE][CLIENT][INFO] Loading file: 'titanium/a_remove_titanium.zs' with priority: 10
+[07:50:27.366][DONE][CLIENT][INFO] Loading file: 'waterstrainer/add_recipe_ws.zs' with priority: 10
+[07:50:27.366][DONE][CLIENT][INFO] Loading file: 'witherskeletontweaks/a_remove_wst.zs' with priority: 10
+[07:50:27.366][DONE][CLIENT][INFO] Loading file: 'xnet/a_remove_xnet.zs' with priority: 10
+[07:50:27.366][DONE][CLIENT][INFO] Loading file: 'xnet/add_recipe_xnet.zs' with priority: 10
+[07:50:27.520][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:bloodmagic:altar>"
+[07:50:27.536][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:soulsnare" that outputs: <item:bloodmagic:soulsnare> * 4.mutable()
+[07:50:27.545][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:rftoolsbase:machine_frame>"
+[07:50:27.558][DONE][CLIENT][INFO] Removing: [gold_gear] from tag: <tag:items:forge:gears/gold>
+[07:50:27.558][DONE][CLIENT][INFO] Removing: [iron_gear] from tag: <tag:items:forge:gears/iron>
+[07:50:27.559][DONE][CLIENT][INFO] Removing: [diamond_gear] from tag: <tag:items:forge:gears/diamond>
+[07:50:27.559][DONE][CLIENT][INFO] Removing: [dust_iron] from tag: <tag:items:forge:dusts/iron>
+[07:50:27.559][DONE][CLIENT][INFO] Removing: [dust_iron] from tag: <tag:items:forge:dusts>
+[07:50:27.560][DONE][CLIENT][INFO] Removing: [MaterialItem[iron_dust]] from tag: <tag:items:forge:dusts/iron>
+[07:50:27.560][DONE][CLIENT][INFO] Removing: [MaterialItem[iron_dust]] from tag: <tag:items:forge:dusts>
+[07:50:27.560][DONE][CLIENT][INFO] Removing: [dust_diamond] from tag: <tag:items:forge:dusts/diamond>
+[07:50:27.560][DONE][CLIENT][INFO] Removing: [dust_diamond] from tag: <tag:items:forge:dusts>
+[07:50:27.561][DONE][CLIENT][INFO] Removing: [dust_emerald] from tag: <tag:items:forge:dusts/emerald>
+[07:50:27.561][DONE][CLIENT][INFO] Removing: [dust_emerald] from tag: <tag:items:forge:dusts>
+[07:50:27.561][DONE][CLIENT][INFO] Removing: [dust_gold] from tag: <tag:items:forge:dusts/gold>
+[07:50:27.561][DONE][CLIENT][INFO] Removing: [MaterialItem[gold_dust]] from tag: <tag:items:forge:dusts/gold>
+[07:50:27.561][DONE][CLIENT][INFO] Removing: [dust_gold] from tag: <tag:items:forge:dusts>
+[07:50:27.562][DONE][CLIENT][INFO] Removing: [MaterialItem[gold_dust]] from tag: <tag:items:forge:dusts>
+[07:50:27.562][DONE][CLIENT][INFO] Removing: [dust_quartz] from tag: <tag:items:appliedenergistics2:dusts/quartz>
+[07:50:27.562][DONE][CLIENT][INFO] Removing: [dust_quartz] from tag: <tag:items:forge:dusts>
+[07:50:27.562][DONE][CLIENT][INFO] Removing: [dust_quartz] from tag: <tag:items:forge:dusts/quartz>
+[07:50:27.563][DONE][CLIENT][INFO] Removing: [MaterialItem[nether_quartz_dust]] from tag: <tag:items:appliedenergistics2:dusts/quartz>
+[07:50:27.563][DONE][CLIENT][INFO] Removing: [MaterialItem[nether_quartz_dust]] from tag: <tag:items:forge:dusts>
+[07:50:27.563][DONE][CLIENT][INFO] Removing: [MaterialItem[nether_quartz_dust]] from tag: <tag:items:appliedenergistics2:nether_quartz_dust>
+[07:50:27.563][DONE][CLIENT][INFO] Removing: [MaterialItem[nether_quartz_dust]] from tag: <tag:items:forge:dusts/quartz>
+[07:50:27.563][DONE][CLIENT][INFO] Removing: [dust_lapis_lazuli] from tag: <tag:items:forge:dusts/lapis>
+[07:50:27.564][DONE][CLIENT][INFO] Removing: [dust_lapis_lazuli] from tag: <tag:items:forge:dusts>
+[07:50:27.564][DONE][CLIENT][INFO] Removing: [dust_sulfur] from tag: <tag:items:forge:dyes/yellow>
+[07:50:27.564][DONE][CLIENT][INFO] Removing: [dust_sulfur] from tag: <tag:items:forge:dyes>
+[07:50:27.564][DONE][CLIENT][INFO] Removing: [dust_sulfur] from tag: <tag:items:forge:dusts>
+[07:50:27.565][DONE][CLIENT][INFO] Removing: [dust_sulfur] from tag: <tag:items:forge:dusts/sulfur>
+[07:50:27.565][DONE][CLIENT][INFO] Removing: [copper_ingot] from tag: <tag:items:forge:ingots>
+[07:50:27.565][DONE][CLIENT][INFO] Removing: [ingot_copper] from tag: <tag:items:forge:ingots>
+[07:50:27.566][DONE][CLIENT][INFO] Removing: [copper_ingot] from tag: <tag:items:forge:ingots/copper>
+[07:50:27.566][DONE][CLIENT][INFO] Removing: [ingot_copper] from tag: <tag:items:forge:ingots/copper>
+[07:50:27.566][DONE][CLIENT][INFO] Removing: [copper_block] from tag: <tag:items:forge:storage_blocks/copper>
+[07:50:27.566][DONE][CLIENT][INFO] Removing: [block_copper] from tag: <tag:items:forge:storage_blocks/copper>
+[07:50:27.567][DONE][CLIENT][INFO] Removing: [copper_block] from tag: <tag:items:forge:storage_blocks>
+[07:50:27.567][DONE][CLIENT][INFO] Removing: [block_copper] from tag: <tag:items:forge:storage_blocks>
+[07:50:27.567][DONE][CLIENT][INFO] Removing: [Block{tconstruct:copper_block}] from tag: <tag:blocks:forge:storage_blocks/copper>
+[07:50:27.567][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_copper}] from tag: <tag:blocks:forge:storage_blocks/copper>
+[07:50:27.568][DONE][CLIENT][INFO] Removing: [Block{tconstruct:copper_block}] from tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.568][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_copper}] from tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.568][DONE][CLIENT][INFO] Removing: [copper_nugget] from tag: <tag:items:forge:nuggets/copper>
+[07:50:27.568][DONE][CLIENT][INFO] Removing: [nugget_copper] from tag: <tag:items:forge:nuggets/copper>
+[07:50:27.569][DONE][CLIENT][INFO] Removing: [copper_nugget] from tag: <tag:items:forge:nuggets>
+[07:50:27.569][DONE][CLIENT][INFO] Removing: [nugget_copper] from tag: <tag:items:forge:nuggets>
+[07:50:27.569][DONE][CLIENT][INFO] Removing: [ingot_tin] from tag: <tag:items:forge:ingots>
+[07:50:27.569][DONE][CLIENT][INFO] Removing: [ingot_tin] from tag: <tag:items:forge:ingots/tin>
+[07:50:27.570][DONE][CLIENT][INFO] Removing: [block_tin] from tag: <tag:items:forge:storage_blocks/tin>
+[07:50:27.570][DONE][CLIENT][INFO] Removing: [block_tin] from tag: <tag:items:forge:storage_blocks>
+[07:50:27.570][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_tin}] from tag: <tag:blocks:forge:storage_blocks/tin>
+[07:50:27.570][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_tin}] from tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.571][DONE][CLIENT][INFO] Removing: [ingot_lead] from tag: <tag:items:forge:ingots>
+[07:50:27.571][DONE][CLIENT][INFO] Removing: [ingot_lead] from tag: <tag:items:forge:ingots/lead>
+[07:50:27.571][DONE][CLIENT][INFO] Removing: [block_lead] from tag: <tag:items:forge:storage_blocks/lead>
+[07:50:27.571][DONE][CLIENT][INFO] Removing: [block_lead] from tag: <tag:items:forge:storage_blocks>
+[07:50:27.571][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_lead}] from tag: <tag:blocks:forge:storage_blocks/lead>
+[07:50:27.572][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_lead}] from tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.572][DONE][CLIENT][INFO] Removing: [ingot_bronze] from tag: <tag:items:forge:ingots>
+[07:50:27.572][DONE][CLIENT][INFO] Removing: [ingot_bronze] from tag: <tag:items:forge:ingots/bronze>
+[07:50:27.573][DONE][CLIENT][INFO] Removing: [block_bronze] from tag: <tag:items:forge:storage_blocks/bronze>
+[07:50:27.573][DONE][CLIENT][INFO] Removing: [block_bronze] from tag: <tag:items:forge:storage_blocks>
+[07:50:27.573][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_bronze}] from tag: <tag:blocks:forge:storage_blocks/bronze>
+[07:50:27.573][DONE][CLIENT][INFO] Removing: [Block{mekanism:block_bronze}] from tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.574][DONE][CLIENT][INFO] Removing: [nugget_bronze] from tag: <tag:items:forge:nuggets>
+[07:50:27.574][DONE][CLIENT][INFO] Removing: [nugget_bronze] from tag: <tag:items:forge:nuggets/bronze>
+[07:50:27.579][DONE][CLIENT][INFO] Adding: [MaterialItem[wooden_gear]] to tag: <tag:items:forge:gears>
+[07:50:27.595][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:gears/wooden>
+[07:50:27.595][DONE][CLIENT][INFO] Adding: [valdanium_nugget] to tag: <tag:items:forge:nuggets>
+[07:50:27.595][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:nuggets/valdanium>
+[07:50:27.596][DONE][CLIENT][INFO] Adding: [valdanium_ingot] to tag: <tag:items:forge:ingots>
+[07:50:27.596][DONE][CLIENT][INFO] Adding: [valdanium_ingot] to tag: <tag:items:minecraft:beacon_payment_items>
+[07:50:27.596][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:ingots/valdanium>
+[07:50:27.596][DONE][CLIENT][INFO] Registering new blocks tag with name <tag:blocks:forge:storage_blocks/valdanium>
+[07:50:27.597][DONE][CLIENT][INFO] Adding: [Block{kubejs:valdanium_block}] to tag: <tag:blocks:forge:storage_blocks>
+[07:50:27.597][DONE][CLIENT][INFO] Adding: [Block{kubejs:valdanium_block}] to tag: <tag:blocks:minecraft:beacon_base_blocks>
+[07:50:27.597][DONE][CLIENT][INFO] Adding: [Block{kubejs:valdanium_block}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.597][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:storage_blocks/valdanium>
+[07:50:27.597][DONE][CLIENT][INFO] Adding: [valdanium_block] to tag: <tag:items:forge:storage_blocks>
+[07:50:27.598][DONE][CLIENT][INFO] Adding: [valdanium_block] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.599][DONE][CLIENT][INFO] Adding: [seed_ore] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.600][DONE][CLIENT][INFO] Adding: [seed_ore] to tag: <tag:items:forge:ores>
+[07:50:27.600][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:ores/seeds>
+[07:50:27.600][DONE][CLIENT][INFO] Registering new blocks tag with name <tag:blocks:forge:ores/seeds>
+[07:50:27.600][DONE][CLIENT][INFO] Adding: [Block{kubejs:seed_ore}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.601][DONE][CLIENT][INFO] Adding: [Block{kubejs:seed_ore}] to tag: <tag:blocks:forge:ores>
+[07:50:27.601][DONE][CLIENT][INFO] Adding: [quartz_dust] to tag: <tag:items:appliedenergistics2:nether_quartz_dust>
+[07:50:27.601][DONE][CLIENT][INFO] Adding: [compressed_iron_gear] to tag: <tag:items:forge:gears>
+[07:50:27.601][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:gears/compressed_iron_gear>
+[07:50:27.601][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:dust/obsidian>
+[07:50:27.601][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:rubber>
+[07:50:27.602][DONE][CLIENT][INFO] Adding: [tinydryrubber] to tag: <tag:items:forge:rubber>
+[07:50:27.602][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:coal>
+[07:50:27.602][DONE][CLIENT][INFO] Adding: [block_charcoal] to tag: <tag:items:forge:coal>
+[07:50:27.602][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:compactstorage:compact_barrel>
+[07:50:27.602][DONE][CLIENT][INFO] Adding: [compact_barrel_green] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.603][DONE][CLIENT][INFO] Adding: [compact_barrel_red] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.603][DONE][CLIENT][INFO] Adding: [compact_barrel_black] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.603][DONE][CLIENT][INFO] Adding: [compact_barrel_light_blue] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.603][DONE][CLIENT][INFO] Adding: [compact_barrel_yellow] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.603][DONE][CLIENT][INFO] Adding: [compact_barrel_pink] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.604][DONE][CLIENT][INFO] Adding: [compact_barrel_gray] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.604][DONE][CLIENT][INFO] Adding: [compact_barrel_light_gray] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.604][DONE][CLIENT][INFO] Adding: [compact_barrel_orange] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.604][DONE][CLIENT][INFO] Adding: [compact_barrel_white] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.604][DONE][CLIENT][INFO] Adding: [compact_barrel_cyan] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.605][DONE][CLIENT][INFO] Adding: [compact_barrel_lime] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.605][DONE][CLIENT][INFO] Adding: [compact_barrel_magenta] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.605][DONE][CLIENT][INFO] Adding: [compact_barrel_blue] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.605][DONE][CLIENT][INFO] Adding: [compact_barrel_purple] to tag: <tag:items:compactstorage:compact_barrel>
+[07:50:27.605][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:compactstorage:compact_backpack>
+[07:50:27.606][DONE][CLIENT][INFO] Adding: [backpack_light_gray] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.606][DONE][CLIENT][INFO] Adding: [backpack_gray] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.606][DONE][CLIENT][INFO] Adding: [backpack_pink] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.606][DONE][CLIENT][INFO] Adding: [backpack_lime] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.606][DONE][CLIENT][INFO] Adding: [backpack_light_blue] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.607][DONE][CLIENT][INFO] Adding: [backpack_magenta] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.607][DONE][CLIENT][INFO] Adding: [backpack_orange] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.607][DONE][CLIENT][INFO] Adding: [backpack_white] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.607][DONE][CLIENT][INFO] Adding: [backpack_black] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.607][DONE][CLIENT][INFO] Adding: [backpack_red] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.608][DONE][CLIENT][INFO] Adding: [backpack_green] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.608][DONE][CLIENT][INFO] Adding: [backpack_brown] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.608][DONE][CLIENT][INFO] Adding: [backpack_blue] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.608][DONE][CLIENT][INFO] Adding: [backpack_purple] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.608][DONE][CLIENT][INFO] Adding: [backpack_cyan] to tag: <tag:items:compactstorage:compact_backpack>
+[07:50:27.609][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:meat_cooked>
+[07:50:27.609][DONE][CLIENT][INFO] Adding: [cooked_chicken] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.609][DONE][CLIENT][INFO] Adding: [cooked_cod] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.609][DONE][CLIENT][INFO] Adding: [cooked_salmon] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.609][DONE][CLIENT][INFO] Adding: [cooked_rabbit] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.610][DONE][CLIENT][INFO] Adding: [cooked_mutton] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.610][DONE][CLIENT][INFO] Adding: [cooked_porkchop] to tag: <tag:items:forge:meat_cooked>
+[07:50:27.610][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:meat_uncooked>
+[07:50:27.610][DONE][CLIENT][INFO] Adding: [cod] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.611][DONE][CLIENT][INFO] Adding: [salmon] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.611][DONE][CLIENT][INFO] Adding: [tropical_fish] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.611][DONE][CLIENT][INFO] Adding: [pufferfish] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.611][DONE][CLIENT][INFO] Adding: [beef] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.611][DONE][CLIENT][INFO] Adding: [chicken] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.612][DONE][CLIENT][INFO] Adding: [rabbit] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.612][DONE][CLIENT][INFO] Adding: [mutton] to tag: <tag:items:forge:meat_uncooked>
+[07:50:27.612][DONE][CLIENT][INFO] Adding: [glass_ghostly] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.613][DONE][CLIENT][INFO] Adding: [Block{glassential:glass_ghostly}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.613][DONE][CLIENT][INFO] Adding: [glass_dark_ethereal] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.614][DONE][CLIENT][INFO] Adding: [Block{glassential:glass_dark_ethereal}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.614][DONE][CLIENT][INFO] Adding: [glass_dark_ethereal_reverse] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.615][DONE][CLIENT][INFO] Adding: [Block{glassential:glass_dark_ethereal_reverse}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.615][DONE][CLIENT][INFO] Adding: [glass_ethereal] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.616][DONE][CLIENT][INFO] Adding: [Block{glassential:glass_ethereal}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.616][DONE][CLIENT][INFO] Adding: [glass_ethereal_reverse] to tag: <tag:items:resourcefulbees:valid_apiary>
+[07:50:27.616][DONE][CLIENT][INFO] Adding: [Block{glassential:glass_ethereal_reverse}] to tag: <tag:blocks:resourcefulbees:valid_apiary>
+[07:50:27.617][DONE][CLIENT][INFO] Adding: [block_charcoal] to tag: <tag:items:chisel:charcoal>
+[07:50:27.617][DONE][CLIENT][INFO] Adding: [charcoal_block] to tag: <tag:items:chisel:charcoal>
+[07:50:27.617][DONE][CLIENT][INFO] Adding: [Block{mekanism:block_charcoal}] to tag: <tag:blocks:chisel:charcoal>
+[07:50:27.617][DONE][CLIENT][INFO] Adding: [Block{thermal:charcoal_block}] to tag: <tag:blocks:chisel:charcoal>
+[07:50:27.617][DONE][CLIENT][INFO] Registering new items tag with name <tag:items:forge:infuser>
+[07:50:27.618][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:itemdiamondring>"
+[07:50:27.621][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:itemring>"
+[07:50:27.623][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:energetic_angel_ring>"
+[07:50:27.626][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:leadstone_angel_ring>"
+[07:50:27.628][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:hardened_angel_ring>"
+[07:50:27.630][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:reinforced_angel_ring>"
+[07:50:27.633][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:angelring:resonant_angel_ring>"
+[07:50:27.636][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:angelring:itemdiamondring>
+[07:50:27.637][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:angelring:itemring>
+[07:50:27.646][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:chicken_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:chicken" as string}).mutable()
+[07:50:27.647][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:wolf_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:wolf" as string}).mutable()
+[07:50:27.650][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:ocelot_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:ocelot" as string}).mutable()
+[07:50:27.650][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cow_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:cow" as string}).mutable()
+[07:50:27.651][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:pig_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:pig" as string}).mutable()
+[07:50:27.651][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:sheep_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:sheep" as string}).mutable()
+[07:50:27.652][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:squid_seed" that outputs: <item:animalcrops:anemonemal>.withTag({entity: "minecraft:squid" as string}).mutable()
+[07:50:27.652][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:rabbit_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:rabbit" as string}).mutable()
+[07:50:27.653][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:horse_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:horse" as string}).mutable()
+[07:50:27.653][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:donkey_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:donkey" as string}).mutable()
+[07:50:27.654][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:polar_bear_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:polar_bear" as string}).mutable()
+[07:50:27.654][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:llama_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:llama" as string}).mutable()
+[07:50:27.654][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:parrot_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:parrot" as string}).mutable()
+[07:50:27.655][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cat_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:cat" as string}).mutable()
+[07:50:27.655][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:fox_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:fox" as string}).mutable()
+[07:50:27.656][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:turtle_seed" that outputs: <item:animalcrops:anemonemal>.withTag({entity: "minecraft:turtle" as string}).mutable()
+[07:50:27.656][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:mooshroom_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:mooshroom" as string}).mutable()
+[07:50:27.657][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:dolphin_seed" that outputs: <item:animalcrops:anemonemal>.withTag({entity: "minecraft:dolphin" as string}).mutable()
+[07:50:27.657][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:panda_seed" that outputs: <item:animalcrops:seeds>.withTag({entity: "minecraft:panda" as string}).mutable()
+[07:50:27.658][DONE][CLIENT][INFO] Removing "appliedenergistics2:grinder" recipes with output: <item:appliedenergistics2:iron_dust>"
+[07:50:27.658][DONE][CLIENT][INFO] Removing "appliedenergistics2:grinder" recipes with output: <item:appliedenergistics2:gold_dust>"
+[07:50:27.658][DONE][CLIENT][INFO] Removing "appliedenergistics2:grinder" recipes with output: <item:appliedenergistics2:ender_dust>"
+[07:50:27.658][DONE][CLIENT][INFO] Removing "appliedenergistics2:grinder" recipes with output: <item:appliedenergistics2:nether_quartz_dust>"
+[07:50:27.659][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:1k_storage_cell>"
+[07:50:27.662][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:1k_fluid_storage_cell>"
+[07:50:27.666][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:4k_storage_cell>"
+[07:50:27.669][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:4k_fluid_storage_cell>"
+[07:50:27.672][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:16k_storage_cell>"
+[07:50:27.676][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:16k_fluid_storage_cell>"
+[07:50:27.678][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:64k_storage_cell>"
+[07:50:27.681][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:64k_fluid_storage_cell>"
+[07:50:27.684][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:energy_acceptor>"
+[07:50:27.686][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:printed_silicon>"
+[07:50:27.688][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:controller>"
+[07:50:27.690][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:drive>"
+[07:50:27.692][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:empty_storage_cell>"
+[07:50:27.693][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:1k_fluid_cell_component>"
+[07:50:27.695][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:1k_cell_component>"
+[07:50:27.696][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:cable_energy_acceptor>"
+[07:50:27.697][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:vibration_chamber>"
+[07:50:27.699][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:appliedenergistics2:grindstone>"
+[07:50:27.700][DONE][CLIENT][INFO] Removing "lazierae2:centrifuge" recipes with output: <item:appliedenergistics2:ender_dust>"
+[07:50:27.700][DONE][CLIENT][INFO] Removing "lazierae2:aggregator" recipes with output: <item:lazierae2:resonating_gem>"
+[07:50:27.702][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:iron_dust" that outputs: <item:thermal:iron_dust> * 2.mutable()
+[07:50:27.702][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:iron_dust2" that outputs: <item:thermal:iron_dust>.mutable()
+[07:50:27.703][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:gold_dust" that outputs: <item:thermal:gold_dust> * 2.mutable()
+[07:50:27.703][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:gold_dust2" that outputs: <item:thermal:gold_dust>.mutable()
+[07:50:27.703][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:ender_dust" that outputs: <item:thermal:ender_pearl_dust>.mutable()
+[07:50:27.704][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:quartz_dust" that outputs: <item:thermal:quartz_dust> * 2.mutable()
+[07:50:27.704][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:quartz_dust2" that outputs: <item:thermal:quartz_dust>.mutable()
+[07:50:27.707][DONE][CLIENT][INFO] Adding "appliedenergistics2:grinder" recipe, with name: "crafttweaker:quartz_dust3" that outputs: <item:minecraft:cobblestone>.mutable()
+[07:50:27.707][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:1k_storage_cell" that outputs: <item:appliedenergistics2:1k_storage_cell>.mutable()
+[07:50:27.708][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:1k_fluid_storage_cell" that outputs: <item:appliedenergistics2:1k_fluid_storage_cell>.mutable()
+[07:50:27.708][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:4k_storage_cell" that outputs: <item:appliedenergistics2:4k_storage_cell>.mutable()
+[07:50:27.709][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:4k_fluid_storage_cell" that outputs: <item:appliedenergistics2:4k_fluid_storage_cell>.mutable()
+[07:50:27.709][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:16k_storage_cell" that outputs: <item:appliedenergistics2:16k_storage_cell>.mutable()
+[07:50:27.709][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:16k_fluid_storage_cell" that outputs: <item:appliedenergistics2:16k_fluid_storage_cell>.mutable()
+[07:50:27.710][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:64k_storage_cell" that outputs: <item:appliedenergistics2:64k_storage_cell>.mutable()
+[07:50:27.710][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:64k_fluid_storage_cell" that outputs: <item:appliedenergistics2:64k_fluid_storage_cell>.mutable()
+[07:50:27.710][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:calculation_processor_press>
+[07:50:27.710][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:engineering_processor_press>
+[07:50:27.711][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:logic_processor_press>
+[07:50:27.711][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:silicon_press>
+[07:50:27.711][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:controller>
+[07:50:27.711][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:drive>
+[07:50:27.712][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:vibration_chamber" that outputs: <item:appliedenergistics2:vibration_chamber>.mutable()
+[07:50:27.721][DONE][CLIENT][INFO] Adding "thermal:pulverizer" recipe, with name: "crafttweaker:sky_dust" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.722][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:grindstone" that outputs: <item:appliedenergistics2:grindstone>.mutable()
+[07:50:27.722][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:ender_pearl_dust1" that outputs: <item:thermal:ender_pearl_dust>.mutable()
+[07:50:27.723][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:ender_pearl_dust2" that outputs: <item:appliedenergistics2:ender_dust>.mutable()
+[07:50:27.724][DONE][CLIENT][INFO] Adding "lazierae2:centrifuge" recipe, with name: "crafttweaker:ender_pearl_dust" that outputs: <item:thermal:ender_pearl_dust>.mutable()
+[07:50:27.724][DONE][CLIENT][INFO] Adding "lazierae2:aggregator" recipe, with name: "crafttweaker:resonating_gem" that outputs: <item:lazierae2:resonating_gem>.mutable()
+[07:50:27.727][DONE][CLIENT][INFO] Removing "astralsorcery:altar" recipe with name: "astralsorcery:altar/wand"
+[07:50:27.727][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:astralsorcery:wand>"
+[07:50:27.731][DONE][CLIENT][INFO] Removing "astralsorcery:block_transmutation" recipe with name: "astralsorcery:block_transmutation/sand_clay"
+[07:50:27.735][DONE][CLIENT][INFO] Adding "astralsorcery:altar" recipe, with name: "minecraft:auto_starlight_infuser" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.736][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:linking_tool" that outputs: <item:astralsorcery:linking_tool>.mutable()
+[07:50:27.737][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:resonating_wand1" that outputs: <item:astralsorcery:wand>.mutable()
+[07:50:27.737][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:discidia" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:discidia" as string}}).mutable()
+[07:50:27.738][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:amara" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:armara" as string}}).mutable()
+[07:50:27.738][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:vicio" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:vicio" as string}}).mutable()
+[07:50:27.739][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:aevitas" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:aevitas" as string}}).mutable()
+[07:50:27.739][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:evorsio" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:evorsio" as string}}).mutable()
+[07:50:27.740][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:lucerna" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:lucerna" as string}}).mutable()
+[07:50:27.740][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:mineralis" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:mineralis" as string}}).mutable()
+[07:50:27.740][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:horologium" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:horologium" as string}}).mutable()
+[07:50:27.741][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:bootes" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:bootes" as string}}).mutable()
+[07:50:27.741][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:fornax" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:fornax" as string}}).mutable()
+[07:50:27.742][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:pelotrio" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:pelotrio" as string}}).mutable()
+[07:50:27.742][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:gelu" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:gelu" as string}}).mutable()
+[07:50:27.742][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:ulteria" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:ulteria" as string}}).mutable()
+[07:50:27.743][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:octans" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:octans" as string}}).mutable()
+[07:50:27.743][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:alcara" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:alcara" as string}}).mutable()
+[07:50:27.744][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:vorux" that outputs: <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {constellationName: "astralsorcery:vorux" as string}}).mutable()
+[07:50:27.744][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:botania:orechid_ignem>"
+[07:50:27.746][DONE][CLIENT][INFO] Removing "botania:petal_apothecary" recipes with output: <item:botania:orechid>"
+[07:50:27.747][DONE][CLIENT][INFO] Removing "botania:petal_apothecary" recipes with output: <item:botania:orechid_ignem>"
+[07:50:27.747][DONE][CLIENT][INFO] Removing "botania:petal_apothecary" recipes with output: <item:botania:floating_orechid>"
+[07:50:27.748][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_glowstone" that outputs: <item:minecraft:glowstone_dust>.mutable()
+[07:50:27.748][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_blaze_powder" that outputs: <item:minecraft:blaze_powder>.mutable()
+[07:50:27.749][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_uraninite" that outputs: <item:powah:uraninite_raw_poor>.mutable()
+[07:50:27.751][DONE][CLIENT][INFO] Adding "botania:pure_daisy" recipe, with name: "crafttweaker:pure_daisy_blackstone" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.751][DONE][CLIENT][INFO] Adding "botania:pure_daisy" recipe, with name: "crafttweaker:pure_daisy_sky_stone" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.752][DONE][CLIENT][INFO] Adding "botania:petal_apothecary" recipe, with name: "crafttweaker:orechid_ignem" that outputs: <item:botania:orechid_ignem>.mutable()
+[07:50:27.753][DONE][CLIENT][INFO] Adding "botania:petal_apothecary" recipe, with name: "crafttweaker:orechid" that outputs: <item:botania:orechid>.mutable()
+[07:50:27.753][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_brown_mushroom" that outputs: <item:minecraft:brown_mushroom>.mutable()
+[07:50:27.754][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_brown_mushroom2" that outputs: <item:minecraft:brown_mushroom>.mutable()
+[07:50:27.755][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_red_mushroom" that outputs: <item:minecraft:red_mushroom>.mutable()
+[07:50:27.755][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:mana_infusion_red_mushroom3" that outputs: <item:minecraft:brown_mushroom>.mutable()
+[07:50:27.756][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:mana_spreader" that outputs: <item:botania:mana_spreader>.mutable()
+[07:50:27.756][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:ghast_tear" that outputs: <item:minecraft:ghast_tear>.mutable()
+[07:50:27.758][DONE][CLIENT][INFO] Clearing the Orechid table
+[07:50:27.759][DONE][CLIENT][INFO] Adding StateIngredientBlock{Block{kubejs:seed_ore}} with weight 16415 to Orechid tables
+[07:50:27.760][DONE][CLIENT][INFO] Clearing the Orechid Ignem table
+[07:50:27.760][DONE][CLIENT][INFO] Adding StateIngredientBlock{Block{tconstruct:cobalt_ore}} with weight 654 to Orechid Ignem tables
+[07:50:27.760][DONE][CLIENT][INFO] Adding StateIngredientBlock{Block{minecraft:nether_quartz_ore}} with weight 5600 to Orechid Ignem tables
+[07:50:27.761][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:hopper_botany_pot_brick_hopper" that outputs: <item:botanypots:hopper_botany_pot>.mutable()
+[07:50:27.761][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:hopper_botany_pot_brick_hopper2" that outputs: <item:botanypots:hopper_botany_pot>.mutable()
+[07:50:27.761][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:cobblefordays:tier_1>"
+[07:50:27.764][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:cobblefordays:tier_3>"
+[07:50:27.766][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:cobblefordays:tier_4>"
+[07:50:27.767][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:cobblefordays:tier_5>"
+[07:50:27.770][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cobblegenerator" that outputs: <item:cobblefordays:tier_2>.mutable()
+[07:50:27.770][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cobblegen_tier_2" that outputs: <item:cobblefordays:tier_3>.mutable()
+[07:50:27.770][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cobblegen_tier_3" that outputs: <item:cobblefordays:tier_4>.mutable()
+[07:50:27.771][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:cobblegen_tier_4" that outputs: <item:cobblefordays:tier_5>.mutable()
+[07:50:27.771][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compactcrafting:field_projector>"
+[07:50:27.773][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_1>"
+[07:50:27.775][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_2>"
+[07:50:27.776][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_3>"
+[07:50:27.777][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_4>"
+[07:50:27.778][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_5>"
+[07:50:27.780][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_6>"
+[07:50:27.781][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_7>"
+[07:50:27.782][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_8>"
+[07:50:27.783][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:snow_9>"
+[07:50:27.784][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_2>"
+[07:50:27.785][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_3>"
+[07:50:27.786][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_4>"
+[07:50:27.787][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_5>"
+[07:50:27.788][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_6>"
+[07:50:27.789][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_7>"
+[07:50:27.789][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_8>"
+[07:50:27.790][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:iron_9>"
+[07:50:27.791][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_1>"
+[07:50:27.792][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_2>"
+[07:50:27.792][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_3>"
+[07:50:27.793][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_4>"
+[07:50:27.794][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_5>"
+[07:50:27.795][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_6>"
+[07:50:27.796][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_7>"
+[07:50:27.797][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_8>"
+[07:50:27.797][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:gold_9>"
+[07:50:27.798][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_1>"
+[07:50:27.799][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_2>"
+[07:50:27.800][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_3>"
+[07:50:27.800][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_4>"
+[07:50:27.801][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_5>"
+[07:50:27.802][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_6>"
+[07:50:27.803][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_7>"
+[07:50:27.804][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_8>"
+[07:50:27.805][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:diamond_9>"
+[07:50:27.805][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_1>"
+[07:50:27.806][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_2>"
+[07:50:27.807][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_3>"
+[07:50:27.808][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_4>"
+[07:50:27.809][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_5>"
+[07:50:27.809][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_6>"
+[07:50:27.810][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_7>"
+[07:50:27.811][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_8>"
+[07:50:27.812][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:emerald_9>"
+[07:50:27.813][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_1>"
+[07:50:27.813][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_2>"
+[07:50:27.814][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_3>"
+[07:50:27.815][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_4>"
+[07:50:27.816][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_5>"
+[07:50:27.817][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_6>"
+[07:50:27.818][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_7>"
+[07:50:27.819][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_8>"
+[07:50:27.820][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:clay_9>"
+[07:50:27.821][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_1>"
+[07:50:27.822][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_2>"
+[07:50:27.823][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_3>"
+[07:50:27.825][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_4>"
+[07:50:27.826][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_5>"
+[07:50:27.827][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_6>"
+[07:50:27.828][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_7>"
+[07:50:27.829][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_8>"
+[07:50:27.830][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:netherite_9>"
+[07:50:27.831][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_2>"
+[07:50:27.832][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_3>"
+[07:50:27.833][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_4>"
+[07:50:27.834][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_5>"
+[07:50:27.834][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_6>"
+[07:50:27.835][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_7>"
+[07:50:27.836][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_8>"
+[07:50:27.837][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:coal_9>"
+[07:50:27.838][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_1>"
+[07:50:27.839][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_2>"
+[07:50:27.840][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_3>"
+[07:50:27.840][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_4>"
+[07:50:27.841][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_5>"
+[07:50:27.842][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_6>"
+[07:50:27.843][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_7>"
+[07:50:27.844][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_8>"
+[07:50:27.845][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redsand_9>"
+[07:50:27.846][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_1>"
+[07:50:27.846][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_2>"
+[07:50:27.847][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_3>"
+[07:50:27.849][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_4>"
+[07:50:27.850][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_5>"
+[07:50:27.850][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_6>"
+[07:50:27.852][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_7>"
+[07:50:27.853][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_8>"
+[07:50:27.853][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:obsidian_9>"
+[07:50:27.854][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_1>"
+[07:50:27.855][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_2>"
+[07:50:27.856][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_3>"
+[07:50:27.857][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_4>"
+[07:50:27.858][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_5>"
+[07:50:27.858][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_6>"
+[07:50:27.859][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_7>"
+[07:50:27.860][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_8>"
+[07:50:27.861][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:lapis_9>"
+[07:50:27.862][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_1>"
+[07:50:27.863][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_2>"
+[07:50:27.863][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_3>"
+[07:50:27.864][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_4>"
+[07:50:27.865][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_5>"
+[07:50:27.866][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_6>"
+[07:50:27.866][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_7>"
+[07:50:27.867][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_8>"
+[07:50:27.868][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:quartz_9>"
+[07:50:27.869][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_1>"
+[07:50:27.870][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_2>"
+[07:50:27.871][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_3>"
+[07:50:27.872][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_4>"
+[07:50:27.873][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_5>"
+[07:50:27.873][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_6>"
+[07:50:27.874][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_7>"
+[07:50:27.875][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_8>"
+[07:50:27.875][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:honey_9>"
+[07:50:27.876][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_1>"
+[07:50:27.877][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_2>"
+[07:50:27.878][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_3>"
+[07:50:27.878][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_4>"
+[07:50:27.879][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_5>"
+[07:50:27.880][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_6>"
+[07:50:27.880][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_7>"
+[07:50:27.881][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_8>"
+[07:50:27.882][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:compressium:redstone_9>"
+[07:50:27.884][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:mekanism:creative_fluid_tank>
+[07:50:27.884][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:mekanism:creative_chemical_tank>
+[07:50:27.886][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:mekanism:creative_energy_cube>.withTag({mekData: {EnergyContainers: [{Container: 0 as byte, stored: "18446744073709551615.9999" as string}]}})
+[07:50:27.887][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:storagedrawers:creative_storage_upgrade>
+[07:50:27.887][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:botania:creative_pool>
+[07:50:27.888][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:appliedenergistics2:creative_energy_cell>
+[07:50:27.888][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:pneumaticcraft:creative_compressor>
+[07:50:27.888][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:chisel:charcoal/raw>"
+[07:50:27.891][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:valdanium_ingot_nugget" that outputs: <item:kubejs:valdanium_nugget> * 9.mutable()
+[07:50:27.892][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:valdanium_nugget_ingot" that outputs: <item:kubejs:valdanium_ingot>.mutable()
+[07:50:27.892][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:valdanium_block_ingot" that outputs: <item:kubejs:valdanium_ingot> * 9.mutable()
+[07:50:27.892][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:valdanium_ingot_block" that outputs: <item:kubejs:valdanium_block>.mutable()
+[07:50:27.893][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:salad" that outputs: <item:kubejs:salad>.mutable()
+[07:50:27.893][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:crusher" that outputs: <item:custommachinery:custom_machine_item>.withTag({machine: "custommachinery:crusher" as string}).mutable()
+[07:50:27.894][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:draconicevolution:draconium_core>"
+[07:50:27.896][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:draconium_core" that outputs: <item:draconicevolution:draconium_core>.mutable()
+[07:50:27.896][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:extendedcrafting:black_iron_ingot>"
+[07:50:27.898][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipe with name: "extendedcrafting:ender_ingot"
+[07:50:27.899][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:black_iron_ingot" that outputs: <item:extendedcrafting:black_iron_ingot>.mutable()
+[07:50:27.899][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:black_iron_block" that outputs: <item:extendedcrafting:black_iron_ingot> * 9.mutable()
+[07:50:27.900][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:extendedcrafting:the_ultimate_ingot>
+[07:50:27.900][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:industrialforegoing:machine_frame_pity>"
+[07:50:27.907][DONE][CLIENT][INFO] Adding "pneumaticcraft:pressure_chamber" recipe, with name: "crafttweaker:machine_frame_pity" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.907][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:jaopca:storage_blocks.prismarine>"
+[07:50:27.909][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:ftbjarmod:auto_processing_block>"
+[07:50:27.911][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:auto_processing_block" that outputs: <item:ftbjarmod:auto_processing_block>.mutable()
+[07:50:27.912][DONE][CLIENT][INFO] Adding "botania:runic_altar" recipe, with name: "crafttweaker:mana_infused_coal" that outputs: <item:kubejs:manainfused_coal>.mutable()
+[07:50:27.913][DONE][CLIENT][INFO] Adding "astralsorcery:altar" recipe, with name: "minecraft:starlight_infused_iron" that outputs: <item:minecraft:air>.mutable()
+[07:50:27.913][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:empty_dna" that outputs: <item:kubejs:empty_dna>.mutable()
+[07:50:27.914][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:dna_spawner" that outputs: <item:kubejs:dna_spawner>.mutable()
+[07:50:27.914][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:block_copper>"
+[07:50:27.916][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:nugget_copper>"
+[07:50:27.917][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:ingot_copper>"
+[07:50:27.918][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:block_tin>"
+[07:50:27.919][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:nugget_tin>"
+[07:50:27.920][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:ingot_tin>"
+[07:50:27.921][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:block_lead>"
+[07:50:27.921][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:nugget_lead>"
+[07:50:27.922][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:ingot_lead>"
+[07:50:27.923][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:block_bronze>"
+[07:50:27.923][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:nugget_bronze>"
+[07:50:27.924][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:ingot_bronze>"
+[07:50:27.925][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:steel_casing>"
+[07:50:27.925][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:metallurgic_infuser>"
+[07:50:27.927][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:metallurgic_infuser" that outputs: <item:mekanism:metallurgic_infuser>.mutable()
+[07:50:27.927][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:quantum_entangloporter" that outputs: <item:mekanism:quantum_entangloporter>.mutable()
+[07:50:27.927][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:furnace>"
+[07:50:27.928][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:honeycomb_block>"
+[07:50:27.929][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:campfire>"
+[07:50:27.930][DONE][CLIENT][INFO] Removing "minecraft:campfire_cooking" recipes with output: <item:ftbjarmod:cast_iron_ingot>"
+[07:50:27.930][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:ancient_debris>"
+[07:50:27.932][DONE][CLIENT][INFO] Adding "minecraft:campfire_cooking" recipe, with name: "crafttweaker:brick" that outputs: <item:minecraft:brick>.mutable()
+[07:50:27.932][DONE][CLIENT][INFO] Adding "minecraft:campfire_cooking" recipe, with name: "crafttweaker:cast_iron" that outputs: <item:ftbjarmod:cast_iron_ingot>.mutable()
+[07:50:27.932][DONE][CLIENT][INFO] Adding "minecraft:campfire_cooking" recipe, with name: "crafttweaker:cbucket" that outputs: <item:ceramicbucket:ceramic_bucket>.mutable()
+[07:50:27.933][DONE][CLIENT][INFO] Adding "minecraft:campfire_cooking" recipe, with name: "crafttweaker:ceramic_shears_part" that outputs: <item:ceramicshears:ceramic_shears_part>.mutable()
+[07:50:27.934][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:furnace" that outputs: <item:minecraft:furnace>.mutable()
+[07:50:27.934][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:honeycomb_block" that outputs: <item:minecraft:honeycomb_block>.mutable()
+[07:50:27.934][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:honeycomb_block_to_honeycomb" that outputs: <item:minecraft:honeycomb> * 9.mutable()
+[07:50:27.935][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:campfire" that outputs: <item:minecraft:campfire>.mutable()
+[07:50:27.935][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:clay_ball" that outputs: <item:minecraft:clay_ball> * 4.mutable()
+[07:50:27.935][DONE][CLIENT][INFO] Adding Shaped Table recipe for <item:minecraft:elytra>
+[07:50:27.936][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:string" that outputs: <item:minecraft:string>.mutable()
+[07:50:27.936][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:beehive" that outputs: <item:minecraft:beehive>.mutable()
+[07:50:27.937][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:chestx4" that outputs: <item:minecraft:chest> * 4.mutable()
+[07:50:27.937][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:mob_grinding_utils:tinted_glass>"
+[07:50:27.939][DONE][CLIENT][INFO] Adding "minecraft:smelting" recipe, with name: "crafttweaker:tinted_glass" that outputs: <item:mob_grinding_utils:tinted_glass>.mutable()
+[07:50:27.940][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:modularrouters:blast_upgrade>"
+[07:50:27.941][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:round_robin_augment" that outputs: <item:modularrouters:filter_round_robin_augment>.mutable()
+[07:50:27.942][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:blast_upgrade" that outputs: <item:modularrouters:blast_upgrade>.mutable()
+[07:50:27.942][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pipez:basic_upgrade>"
+[07:50:27.943][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pipez:improved_upgrade>"
+[07:50:27.944][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pipez:advanced_upgrade>"
+[07:50:27.945][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:pipez:ultimate_upgrade>"
+[07:50:27.946][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:wooden_double_arrow" that outputs: <item:kubejs:wooden_double_arrow>.mutable()
+[07:50:27.946][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:powah:dielectric_paste>"
+[07:50:27.947][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:powah:furnator_starter>"
+[07:50:27.948][DONE][CLIENT][INFO] Adding "botania:mana_infusion" recipe, with name: "crafttweaker:dielectric_paste" that outputs: <item:powah:dielectric_paste>.mutable()
+[07:50:27.948][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:furnator_starter" that outputs: <item:powah:furnator_starter>.mutable()
+[07:50:27.951][DONE][CLIENT][INFO] Set show JEI Label to true
+[07:50:27.956][DONE][CLIENT][INFO] Setting the stage of  "minecraft:crafting" recipes with output: <item:farmingforblockheads:market>" to "market"
+[07:50:27.959][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:t1_beehive>"
+[07:50:27.961][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:t2_beehive>"
+[07:50:27.962][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:t3_beehive>"
+[07:50:27.962][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:t4_beehive>"
+[07:50:27.963][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:t1_apiary>"
+[07:50:27.964][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:centrifuge>"
+[07:50:27.965][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:waxed_machine_block>"
+[07:50:27.965][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:centrifuge_casing>"
+[07:50:27.966][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:resourcefulbees:elite_centrifuge_casing>"
+[07:50:27.968][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:light_blue_dye" that outputs: <item:minecraft:light_blue_dye>.mutable()
+[07:50:27.968][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:yellow_dye" that outputs: <item:minecraft:yellow_dye>.mutable()
+[07:50:27.968][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:black_dye" that outputs: <item:minecraft:black_dye>.mutable()
+[07:50:27.969][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:red_dye" that outputs: <item:minecraft:red_dye>.mutable()
+[07:50:27.969][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:brown_dye" that outputs: <item:minecraft:brown_dye>.mutable()
+[07:50:27.970][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:blue_dye" that outputs: <item:minecraft:blue_dye>.mutable()
+[07:50:27.970][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:purple_dye" that outputs: <item:minecraft:purple_dye>.mutable()
+[07:50:27.970][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:cyan_dye" that outputs: <item:minecraft:cyan_dye>.mutable()
+[07:50:27.971][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:light_gray_dye" that outputs: <item:minecraft:light_gray_dye>.mutable()
+[07:50:27.971][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:gray_dye" that outputs: <item:minecraft:gray_dye>.mutable()
+[07:50:27.971][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:pink_dye" that outputs: <item:minecraft:pink_dye>.mutable()
+[07:50:27.972][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:lime_dye" that outputs: <item:minecraft:lime_dye>.mutable()
+[07:50:27.972][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:green_dye" that outputs: <item:minecraft:green_dye>.mutable()
+[07:50:27.973][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:white_dye" that outputs: <item:minecraft:white_dye>.mutable()
+[07:50:27.973][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:orange_dye" that outputs: <item:minecraft:orange_dye>.mutable()
+[07:50:27.973][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:magenta_dye" that outputs: <item:minecraft:magenta_dye>.mutable()
+[07:50:27.974][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:smoker_can" that outputs: <item:resourcefulbees:smoker_can>.mutable()
+[07:50:27.975][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:honeybucket" that outputs: <item:ceramicbucket:filled_ceramic_bucket>.withTag({Fluid: {FluidName: "resourcefulbees:honey" as string, Amount: 1000 as int}}).mutable()
+[07:50:27.976][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:honey_bottle" that outputs: <item:minecraft:honey_bottle> * 4.mutable()
+[07:50:27.976][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:mechanical_centrifuge" that outputs: <item:resourcefulbees:mechanical_centrifuge>.mutable()
+[07:50:27.976][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:t1_beehive" that outputs: <item:resourcefulbees:t1_beehive>.mutable()
+[07:50:27.977][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:t2_beehive" that outputs: <item:resourcefulbees:t2_beehive>.mutable()
+[07:50:27.977][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:t3_beehive" that outputs: <item:resourcefulbees:t3_beehive>.mutable()
+[07:50:27.978][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:t4_beehive" that outputs: <item:resourcefulbees:t4_beehive>.mutable()
+[07:50:27.978][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:t1_apiary" that outputs: <item:resourcefulbees:t1_apiary>.mutable()
+[07:50:27.979][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:centrifuge" that outputs: <item:resourcefulbees:centrifuge>.mutable()
+[07:50:27.979][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:waxed_machine_block" that outputs: <item:resourcefulbees:waxed_machine_block>.mutable()
+[07:50:27.980][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:oak_log" that outputs: <item:minecraft:oak_log> * 4.mutable()
+[07:50:27.980][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:dark_oak_log" that outputs: <item:minecraft:dark_oak_log> * 4.mutable()
+[07:50:27.980][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:spruce_log" that outputs: <item:minecraft:spruce_log> * 4.mutable()
+[07:50:27.981][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:birch_log" that outputs: <item:minecraft:birch_log> * 4.mutable()
+[07:50:27.981][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:jungle_log" that outputs: <item:minecraft:jungle_log> * 4.mutable()
+[07:50:27.981][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:acacia_log" that outputs: <item:minecraft:acacia_log> * 4.mutable()
+[07:50:27.982][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:export_kabel>"
+[07:50:27.984][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:import_kabel>"
+[07:50:27.985][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:import_filter_kabel>"
+[07:50:27.986][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:inventory_remote>"
+[07:50:27.986][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:crafting_remote>"
+[07:50:27.987][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:picker_remote>"
+[07:50:27.988][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:collector_remote>"
+[07:50:27.989][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:builder_remote>"
+[07:50:27.989][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:filter_kabel>"
+[07:50:27.990][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:master>"
+[07:50:27.991][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:storagenetwork:inventory>"
+[07:50:27.993][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:filter_kabel" that outputs: <item:storagenetwork:filter_kabel> * 4.mutable()
+[07:50:27.993][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:master" that outputs: <item:storagenetwork:master>.mutable()
+[07:50:27.994][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:inventory" that outputs: <item:storagenetwork:inventory>.mutable()
+[07:50:27.994][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:telepastries:nether_cake>"
+[07:50:27.995][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:tesseract:tesseract>"
+[07:50:27.996][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:tesseract" that outputs: <item:tesseract:tesseract>.mutable()
+[07:50:27.997][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:machine_frame>"
+[07:50:27.998][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:energy_cell>"
+[07:50:27.999][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:lapis_gear>"
+[07:50:28.000][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:press_gear_die>"
+[07:50:28.001][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:iron_gear>"
+[07:50:28.002][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:gold_gear>"
+[07:50:28.003][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:diamond_gear>"
+[07:50:28.004][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:emerald_gear>"
+[07:50:28.005][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:quartz_gear>"
+[07:50:28.006][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:copper_gear>"
+[07:50:28.007][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:tin_gear>"
+[07:50:28.007][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:lead_gear>"
+[07:50:28.008][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:silver_gear>"
+[07:50:28.009][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:nickel_gear>"
+[07:50:28.010][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:bronze_gear>"
+[07:50:28.010][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:electrum_gear>"
+[07:50:28.011][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:invar_gear>"
+[07:50:28.012][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:constantan_gear>"
+[07:50:28.013][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:signalum_gear>"
+[07:50:28.013][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:lumium_gear>"
+[07:50:28.014][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:thermal:enderium_gear>"
+[07:50:28.018][DONE][CLIENT][INFO] Removing "thermal:press" recipes with outputs: [<item:minecraft:honeycomb>]" and fluid outputs: "[]"
+[07:50:28.018][DONE][CLIENT][INFO] Removing "thermal:press" recipes with outputs: [<item:minecraft:honeycomb_block>]" and fluid outputs: "[]"
+[07:50:28.019][DONE][CLIENT][INFO] Removing "thermal:crucible" recipes with outputs: []" and fluid outputs: "[com.blamejared.crafttweaker.impl.fluid.MCFluidStack@d9be7eac]"
+[07:50:28.022][DONE][CLIENT][INFO] Removing "thermal:centrifuge" recipes with outputs: []" and fluid outputs: "[com.blamejared.crafttweaker.impl.fluid.MCFluidStack@d9be7eac]"
+[07:50:28.022][DONE][CLIENT][INFO] Removing "thermal:bottler" recipes with outputs: [<item:minecraft:honey_bottle>]" and fluid outputs: "[]"
+[07:50:28.022][DONE][CLIENT][INFO] Removing "thermal:chiller" recipes with outputs: [<item:minecraft:honey_block>]" and fluid outputs: "[]"
+[07:50:28.024][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:gear_lapis" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.024][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:gear_compressed_iron" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.024][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:gear_diamond" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.025][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:gear_emerald" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.025][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:gear_quartz" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.026][DONE][CLIENT][INFO] Adding "thermal:furnace" recipe, with name: "crafttweaker:seared_brick" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.027][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:honeycomb_block" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.027][DONE][CLIENT][INFO] Adding "thermal:press" recipe, with name: "crafttweaker:honeycomb" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.028][DONE][CLIENT][INFO] Adding "thermal:crucible" recipe, with name: "crafttweaker:honey_block_to_honey" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.029][DONE][CLIENT][INFO] Adding "thermal:centrifuge" recipe, with name: "crafttweaker:honeycomb_to_honey" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.030][DONE][CLIENT][INFO] Adding "thermal:bottler" recipe, with name: "crafttweaker:bottler_honeybottle" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.030][DONE][CLIENT][INFO] Adding "astralsorcery:infusion" recipe, with name: "minecraft:machine_frame" that outputs: <item:minecraft:air>.mutable()
+[07:50:28.030][DONE][CLIENT][INFO] Removing "minecraft:smelting" recipes with output: <item:tconstruct:seared_brick>"
+[07:50:28.031][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/copper/ingot_gold_cast"
+[07:50:28.031][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/copper/ingot_sand_cast"
+[07:50:28.031][DONE][CLIENT][INFO] Removing "tconstruct:casting_basin" recipe with name: "tconstruct:smeltery/casting/metal/copper/block"
+[07:50:28.031][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/copper/nugget_gold_cast"
+[07:50:28.031][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/copper/nugget_sand_cast"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/tin/ingot_gold_cast"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/tin/ingot_sand_cast"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_basin" recipe with name: "tconstruct:smeltery/casting/metal/tin/block"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/tin/nugget_gold_cast"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/tin/nugget_sand_cast"
+[07:50:28.032][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/bronze/ingot_gold_cast"
+[07:50:28.033][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/bronze/ingot_sand_cast"
+[07:50:28.033][DONE][CLIENT][INFO] Removing "tconstruct:casting_basin" recipe with name: "tconstruct:smeltery/casting/metal/bronze/block"
+[07:50:28.033][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/bronze/nugget_gold_cast"
+[07:50:28.033][DONE][CLIENT][INFO] Removing "tconstruct:casting_table" recipe with name: "tconstruct:smeltery/casting/metal/bronze/nugget_sand_cast"
+[07:50:28.033][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:titanium:gold_gear>"
+[07:50:28.036][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:titanium:iron_gear>"
+[07:50:28.038][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:titanium:diamond_gear>"
+[07:50:28.040][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:strainer_base" that outputs: <item:waterstrainer:strainer_base>.mutable()
+[07:50:28.040][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:wstweaks:lava_blade>"
+[07:50:28.042][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:wstweaks:blaze_blade>"
+[07:50:28.044][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:xnet:controller>"
+[07:50:28.046][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:xnet:router>"
+[07:50:28.047][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:xnet:wireless_router>"
+[07:50:28.048][DONE][CLIENT][INFO] Removing "minecraft:crafting" recipes with output: <item:xnet:redstone_proxy>"
+[07:50:28.050][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:xnet_controller" that outputs: <item:xnet:controller>.mutable()
+[07:50:28.050][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:xnet_router" that outputs: <item:xnet:router>.mutable()
+[07:50:28.051][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:xnet_wireless_router" that outputs: <item:xnet:wireless_router>.mutable()
+[07:50:28.051][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "mirroring shaped", with name: "crafttweaker:xnet_redstone_proxy" that outputs: <item:xnet:redstone_proxy>.mutable()
+[07:50:28.051][DONE][CLIENT][INFO] Finished loading Scripts!
+[07:50:28.057][DONE][CLIENT][INFO] This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

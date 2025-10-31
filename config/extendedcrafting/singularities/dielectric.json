@@ -1,0 +1,11 @@
+{
+  "name": "Dielectric Paste",
+  "colors": [
+    "090909",
+    "222222"
+  ],
+  "ingredient": {
+    "item": "powah:dielectric_paste"
+  },
+  "inUltimateSingularity": true
+}
